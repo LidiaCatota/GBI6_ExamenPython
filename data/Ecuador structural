@@ -1,0 +1,3600 @@
+
+PMID- 35756649
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 2234-943X (Print)
+IS  - 2234-943X (Linking)
+VI  - 12
+DP  - 2022
+TI  - Novel Variation in Acyl-CoA Synthetase Long Chain Family Member 6 (ACSL6) Results
+      in Protein Structural Modification and Multiple Non-Related Neoplasia in a
+      46-Year-Old: Case Report.
+PG  - 899579
+LID - 10.3389/fonc.2022.899579 [doi]
+AB  - Multiple non-related neoplasia does not have an established approach or benefits 
+      for performing whole-exome sequencing (WES) analysis. We report on a 46-year-old 
+      woman who developed astrocytoma, thyroid, and breast cancer within 10 years. The 
+      WES analysis found a novel missense variant in the ACSL6 gene, and the protein
+      modeling showed altered secondary and tertiary structures, which modify the
+      binding to cofactors and substrates. ACSL6 is involved in lipid metabolism,
+      expressed in the brain, thyroid, and breast tissues, and is associated with
+      diverse types of cancer. Our study demonstrates the benefit of WES analysis
+      compared with commercial panels in patients with non-related neoplasia.
+CI  - Copyright (c) 2022 Castillo, Freire, Romero, Arias-Almeida, Reyes and Hosomichi.
+FAU - Castillo, Maria Isabel
+AU  - Castillo MI
+AD  - School of Medicine, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Freire, Erick
+AU  - Freire E
+AD  - School of Medicine, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Romero, Vanessa I
+AU  - Romero VI
+AD  - School of Medicine, Universidad San Francisco de Quito, Quito, Ecuador.
+FAU - Arias-Almeida, Benjamin
+AU  - Arias-Almeida B
+AD  - Centro de Investigacion Biomedica, Facultad de Ciencias de la Salud Eugenio
+      Espejo, Universidad UTE, Quito, Ecuador.
+FAU - Reyes, Carlos
+AU  - Reyes C
+AD  - Departamento de Genetica, Hospital de Especialidades Eugenio Espejo, Quito,
+      Ecuador.
+FAU - Hosomichi, Kazuyoshi
+AU  - Hosomichi K
+AD  - Department of Bioinformatics and Genomics, Kanazawa University, Kanazawa, Japan.
+LA  - eng
+PT  - Case Reports
+DEP - 20220602
+PL  - Switzerland
+TA  - Front Oncol
+JT  - Frontiers in oncology
+JID - 101568867
+PMC - PMC9215171
+OTO - NOTNLM
+OT  - ACSL6
+OT  - astrocytoma
+OT  - breast
+OT  - missense
+OT  - thyroid
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2022/06/28 06:00
+MHDA- 2022/06/28 06:01
+CRDT- 2022/06/27 04:08
+PHST- 2022/03/18 00:00 [received]
+PHST- 2022/05/09 00:00 [accepted]
+PHST- 2022/06/27 04:08 [entrez]
+PHST- 2022/06/28 06:00 [pubmed]
+PHST- 2022/06/28 06:01 [medline]
+AID - 10.3389/fonc.2022.899579 [doi]
+PST - epublish
+SO  - Front Oncol. 2022 Jun 2;12:899579. doi: 10.3389/fonc.2022.899579. eCollection
+      2022.
+
+PMID- 35690625
+OWN - NLM
+STAT- MEDLINE
+LR  - 20220729
+IS  - 2041-1723 (Electronic)
+IS  - 2041-1723 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2022 Jun 11
+TI  - Structural basis of resistance to herbicides that target acetohydroxyacid
+      synthase.
+PG  - 3368
+LID - 10.1038/s41467-022-31023-x [doi]
+AB  - Acetohydroxyacid synthase (AHAS) is the target for more than 50 commercial
+      herbicides; first applied to crops in the 1980s. Since then, 197 site-of-action
+      resistance isolates have been identified in weeds, with mutations at P197 and
+      W574 the most prevalent. Consequently, AHAS is at risk of not being a useful
+      target for crop protection. To develop new herbicides, a functional understanding
+      to explain the effect these mutations have on activity is required. Here, we show
+      that these mutations can have two effects (i) to reduce binding affinity of the
+      herbicides and (ii) to abolish time-dependent accumulative inhibition, critical
+      to the exceptional effectiveness of this class of herbicide. In the two mutants, 
+      conformational changes occur resulting in a loss of accumulative inhibition by
+      most herbicides. However, bispyribac, a bulky herbicide is able to counteract the
+      detrimental effects of these mutations, explaining why no site-of-action
+      resistance has yet been reported for this herbicide.
+CI  - (c) 2022. Crown.
+FAU - Lonhienne, Thierry
+AU  - Lonhienne T
+AUID- ORCID: 0000-0001-8788-2840
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Cheng, Yan
+AU  - Cheng Y
+AUID- ORCID: 0000-0001-5068-1375
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Garcia, Mario D
+AU  - Garcia MD
+AUID- ORCID: 0000-0001-8378-7475
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+AD  - Faculty of Food Science, Engineering and Biotechnology, Technical University of
+      Ambato, Tungurahua, Ambato, 180210, Ecuador.
+FAU - Hu, Shu Hong
+AU  - Hu SH
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Low, Yu Shang
+AU  - Low YS
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Schenk, Gerhard
+AU  - Schenk G
+AUID- ORCID: 0000-0001-8619-0631
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Williams, Craig M
+AU  - Williams CM
+AUID- ORCID: 0000-0002-3834-7398
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia.
+FAU - Guddat, Luke W
+AU  - Guddat LW
+AUID- ORCID: 0000-0002-8204-8408
+AD  - School of Chemistry and Molecular Biosciences, The University of Queensland,
+      Brisbane, QLD, 4072, Australia. luke.guddat@uq.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220611
+PL  - England
+TA  - Nat Commun
+JT  - Nature communications
+JID - 101528555
+RN  - 0 (Herbicides)
+RN  - EC 2.2.1.6 (Acetolactate Synthase)
+SB  - IM
+MH  - *Acetolactate Synthase/genetics/metabolism
+MH  - Crops, Agricultural/metabolism
+MH  - *Herbicides/chemistry/pharmacology
+MH  - Mutation
+MH  - Plant Weeds/metabolism
+PMC - PMC9188596
+EDAT- 2022/06/12 06:00
+MHDA- 2022/06/15 06:00
+CRDT- 2022/06/11 23:17
+PHST- 2022/03/11 00:00 [received]
+PHST- 2022/05/27 00:00 [accepted]
+PHST- 2022/06/11 23:17 [entrez]
+PHST- 2022/06/12 06:00 [pubmed]
+PHST- 2022/06/15 06:00 [medline]
+AID - 10.1038/s41467-022-31023-x [doi]
+AID - 10.1038/s41467-022-31023-x [pii]
+PST - epublish
+SO  - Nat Commun. 2022 Jun 11;13(1):3368. doi: 10.1038/s41467-022-31023-x.
+
+PMID- 35634924
+OWN - NLM
+STAT- MEDLINE
+LR  - 20220716
+IS  - 1471-2970 (Electronic)
+IS  - 0962-8436 (Linking)
+VI  - 377
+IP  - 1855
+DP  - 2022 Jul 18
+TI  - The genetic basis of structural colour variation in mimetic Heliconius
+      butterflies.
+PG  - 20200505
+LID - 10.1098/rstb.2020.0505 [doi]
+AB  - Structural colours, produced by the reflection of light from ultrastructures,
+      have evolved multiple times in butterflies. Unlike pigmentary colours and
+      patterns, little is known about the genetic basis of these colours. Reflective
+      structures on wing-scale ridges are responsible for iridescent structural colour 
+      in many butterflies, including the Mullerian mimics Heliconius erato and
+      Heliconius melpomene. Here, we quantify aspects of scale ultrastructure variation
+      and colour in crosses between iridescent and non-iridescent subspecies of both of
+      these species and perform quantitative trait locus (QTL) mapping. We show that
+      iridescent structural colour has a complex genetic basis in both species, with
+      offspring from crosses having a wide variation in blue colour (both hue and
+      brightness) and scale structure measurements. We detect two different genomic
+      regions in each species that explain modest amounts of this variation, with a
+      sex-linked QTL in H. erato but not H. melpomene. We also find differences between
+      species in the relationships between structure and colour, overall suggesting
+      that these species have followed different evolutionary trajectories in their
+      evolution of structural colour. We then identify genes within the QTL intervals
+      that are differentially expressed between subspecies and/or wing regions,
+      revealing likely candidates for genes controlling structural colour formation.
+      This article is part of the theme issue 'Genetic basis of adaptation and
+      speciation: from loci to causative mutations'.
+FAU - Brien, Melanie N
+AU  - Brien MN
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Enciso-Romero, Juan
+AU  - Enciso-Romero J
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+AD  - Biology Program, Faculty of Natural Sciences, Universidad del Rosario, Bogota,
+      Colombia.
+FAU - Lloyd, Victoria J
+AU  - Lloyd VJ
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Curran, Emma V
+AU  - Curran EV
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Parnell, Andrew J
+AU  - Parnell AJ
+AUID- ORCID: 0000-0001-8606-8644
+AD  - Department of Physics and Astronomy, The University of Sheffield, Hicks Building,
+      Hounsfield Road, Sheffield S3 7RH, UK.
+FAU - Morochz, Carlos
+AU  - Morochz C
+AD  - Biology and Research Department, Mashpi Lodge, Ecuador.
+FAU - Salazar, Patricio A
+AU  - Salazar PA
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Rastas, Pasi
+AU  - Rastas P
+AD  - Institute of Biotechnology, 00014 University of Helsinki, Finland.
+FAU - Zinn, Thomas
+AU  - Zinn T
+AD  - ESRF - The European Synchrotron, 38043 Grenoble Cedex 9, France.
+FAU - Nadeau, Nicola J
+AU  - Nadeau NJ
+AUID- ORCID: 0000-0002-9319-921X
+AD  - Ecology and Evolutionary Biology, School of Biosciences, The University of
+      Sheffield, Alfred Denny Building, Western Bank, Sheffield S10 2TN, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220530
+PL  - England
+TA  - Philos Trans R Soc Lond B Biol Sci
+JT  - Philosophical transactions of the Royal Society of London. Series B, Biological
+      sciences
+JID - 7503623
+SB  - IM
+MH  - Animals
+MH  - *Butterflies/genetics
+MH  - Chromosome Mapping
+MH  - Color
+MH  - Pigmentation/genetics
+MH  - Wings, Animal
+PMC - PMC9149798
+OTO - NOTNLM
+OT  - *Heliconius
+OT  - *QTL
+OT  - *convergence
+OT  - *gene expression
+OT  - *iridescence
+OT  - *structural colour
+EDAT- 2022/06/01 06:00
+MHDA- 2022/06/03 06:00
+CRDT- 2022/05/31 10:39
+PHST- 2022/05/31 10:39 [entrez]
+PHST- 2022/06/01 06:00 [pubmed]
+PHST- 2022/06/03 06:00 [medline]
+AID - 10.1098/rstb.2020.0505 [doi]
+PST - ppublish
+SO  - Philos Trans R Soc Lond B Biol Sci. 2022 Jul 18;377(1855):20200505. doi:
+      10.1098/rstb.2020.0505. Epub 2022 May 30.
+
+PMID- 35465477
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220716
+IS  - 1664-1078 (Print)
+IS  - 1664-1078 (Linking)
+VI  - 13
+DP  - 2022
+TI  - Parental Burnout Assessment (PBA) in Different Hispanic Countries: An Exploratory
+      Structural Equation Modeling Approach.
+PG  - 827014
+LID - 10.3389/fpsyg.2022.827014 [doi]
+AB  - Parental burnout is a unique and context-specific syndrome resulting from a
+      chronic imbalance of risks over resources in the parenting domain. The current
+      research aims to evaluate the psychometric properties of the Spanish version of
+      the Parental Burnout Assessment (PBA) across Spanish-speaking countries with two 
+      consecutive studies. In Study 1, we analyzed the data through a bifactor model
+      within an Exploratory Structural Equation Modeling (ESEM) on the pooled sample of
+      participants (N = 1,979) obtaining good fit indices. We then attained measurement
+      invariance across both gender and countries in a set of nested models with
+      gradually increasing parameter constraints. Latent means comparisons across
+      countries showed that among the participants' countries, Chile had the highest
+      parental burnout score, likewise, comparisons across gender evidenced that
+      mothers displayed higher scores than fathers, as shown in previous studies.
+      Reliability coefficients were high. In Study 2 (N = 1,171), we tested the
+      relations between parental burnout and three specific consequences, i.e., escape 
+      and suicidal ideations, parental neglect, and parental violence toward one's
+      children. The medium to large associations found provided support for the PBA's
+      predictive validity. Overall, we concluded that the Spanish version of the PBA
+      has good psychometric properties. The results support its relevance for the
+      assessment of parental burnout among Spanish-speaking parents, offering new
+      opportunities for cross-cultural research in the parenting domain.
+CI  - Copyright (c) 2022 Manrique-Millones, Vasin, Dominguez-Lara, Millones-Rivalles,
+      Ricci, Abregu Rey, Escobar, Oyarce, Perez-Diaz, Santelices, Pineda-Marin, Tapia, 
+      Artavia, Valdes Pacheco, Miranda, Sanchez Rodriguez, Morgades-Bamba,
+      Pena-Sarrionandia, Salinas-Quiroz, Silva Cabrera, Mikolajczak and Roskam.
+FAU - Manrique-Millones, Denisse
+AU  - Manrique-Millones D
+AD  - Carrera de Psicologia, Facultad de Ciencias de la Salud, Universidad Cientifica
+      del Sur, Lima, Peru.
+FAU - Vasin, Georgy M
+AU  - Vasin GM
+AD  - Centre for Multidisciplinary Research in Education, Russian Academy of Education,
+      Moscow, Russia.
+FAU - Dominguez-Lara, Sergio
+AU  - Dominguez-Lara S
+AD  - Escuela de Psicologia, Instituto de Investigacion de Psicologia, Universidad de
+      San Martin de Porres, Lima, Peru.
+FAU - Millones-Rivalles, Rosa
+AU  - Millones-Rivalles R
+AD  - Facultad de Educacion, Universidad Marcelino Champagnat, Lima, Peru.
+FAU - Ricci, Ricardo T
+AU  - Ricci RT
+AD  - Facultad de Medicina, Universidad Nacional de Tucuman, San Miguel de Tucuman,
+      Argentina.
+FAU - Abregu Rey, Milagros
+AU  - Abregu Rey M
+AD  - Facultad de Medicina, Universidad Nacional de Tucuman, San Miguel de Tucuman,
+      Argentina.
+FAU - Escobar, Maria Josefina
+AU  - Escobar MJ
+AD  - Center for Social and Cognitive Neuroscience, School of Psychology, Universidad
+      Adolfo Ibanez, Santiago, Chile.
+FAU - Oyarce, Daniela
+AU  - Oyarce D
+AD  - Carrera de Psicologia, Facultad de Ciencias Sociales y Comunicacion, Universidad 
+      Santo Tomas, Talca, Chile.
+FAU - Perez-Diaz, Pablo
+AU  - Perez-Diaz P
+AD  - Instituto de Psicologia, Universidad Austral de Chile, Puerto Montt, Chile.
+FAU - Santelices, Maria Pia
+AU  - Santelices MP
+AD  - School of Psychology, Millenium Institute for Research in Depression and
+      Personality, Pontificia Universidad Catolica de Chile, Santiago, Chile.
+FAU - Pineda-Marin, Claudia
+AU  - Pineda-Marin C
+AD  - School of Psychology, Konrad Lorenz University, Bogota, Colombia.
+FAU - Tapia, Javier
+AU  - Tapia J
+AD  - Facultad de Ciencias Sociales, Instituto de Investigaciones Psicologicas,
+      Universidad de Costa Rica, San Jose, Costa Rica.
+FAU - Artavia, Mariana
+AU  - Artavia M
+AD  - Facultad de Ciencias Sociales, Instituto de Investigaciones Psicologicas,
+      Universidad de Costa Rica, San Jose, Costa Rica.
+FAU - Valdes Pacheco, Maday
+AU  - Valdes Pacheco M
+AD  - Facultad de Psicologia, Universidad de la Habana, La Habana, Cuba.
+FAU - Miranda, Maria Isabel
+AU  - Miranda MI
+AD  - Facultad de Psicologia, Pontificia Universidad Catolica de Ecuador, Quito,
+      Ecuador.
+FAU - Sanchez Rodriguez, Raquel
+AU  - Sanchez Rodriguez R
+AD  - Ceres Research Unit, TR3, Free Faculty of Arts and Humanities, Catholic Institute
+      of Toulouse, Toulouse, France.
+AD  - Center for Studies and Research in Psychopathology and Health Psychology
+      (CERPPS), Faculty of Psychology, University of Toulouse Jean Jaures, Toulouse,
+      France.
+FAU - Morgades-Bamba, Clara Isabel
+AU  - Morgades-Bamba CI
+AD  - Departamento Metodologia de Ciencias del Comportamiento, Universidad Nacional de 
+      Educacion a Distancia, Madrid, Spain.
+FAU - Pena-Sarrionandia, Ainize
+AU  - Pena-Sarrionandia A
+AD  - Departamento "Psicologia Clinica y de la Salud y Metodologia de Investigacion",
+      Facultad de Psicologia, University of the Basque Country, Donostia-San Sebastian,
+      Spain.
+FAU - Salinas-Quiroz, Fernando
+AU  - Salinas-Quiroz F
+AD  - "Abby & Anna" SOGIE Lab, Eliot-Pearson Department of Child Study and Human
+      Development, Tufts University, Medford, MA, United States.
+FAU - Silva Cabrera, Paola
+AU  - Silva Cabrera P
+AD  - Departamento de Psicologia, Instituto de Psicologia, Educacion y Desarrollo
+      Humano, Universidad de la Republica, Montevideo, Uruguay.
+FAU - Mikolajczak, Moira
+AU  - Mikolajczak M
+AD  - Department of Psychology, UCLouvain, Louvain-la-Neuve, Belgium.
+FAU - Roskam, Isabelle
+AU  - Roskam I
+AD  - Department of Psychology, UCLouvain, Louvain-la-Neuve, Belgium.
+LA  - eng
+PT  - Journal Article
+DEP - 20220407
+PL  - Switzerland
+TA  - Front Psychol
+JT  - Frontiers in psychology
+JID - 101550902
+PMC - PMC9022033
+OTO - NOTNLM
+OT  - ESEM
+OT  - Spanish-speaking
+OT  - equivalence
+OT  - exhaustion
+OT  - parenting
+COIS- The authors declare that the research was conducted in the absence of any
+      commercial or financial relationships that could be construed as a potential
+      conflict of interest.
+EDAT- 2022/04/26 06:00
+MHDA- 2022/04/26 06:01
+CRDT- 2022/04/25 05:52
+PHST- 2021/12/02 00:00 [received]
+PHST- 2022/03/11 00:00 [accepted]
+PHST- 2022/04/25 05:52 [entrez]
+PHST- 2022/04/26 06:00 [pubmed]
+PHST- 2022/04/26 06:01 [medline]
+AID - 10.3389/fpsyg.2022.827014 [doi]
+PST - epublish
+SO  - Front Psychol. 2022 Apr 7;13:827014. doi: 10.3389/fpsyg.2022.827014. eCollection 
+      2022.
+
+PMID- 35464708
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220425
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Linking)
+VI  - 8
+IP  - 4
+DP  - 2022 Apr
+TI  - Computer tool with intelligent behavior for the optimal preliminary design in
+      non-braced structural steel frame.
+PG  - e09260
+LID - 10.1016/j.heliyon.2022.e09260 [doi]
+AB  - The optimization of civil structures is a technique whose purpose is to
+      efficiently use the materials that make up the structural systems based on
+      previously established restrictions and objectives. The use and development of
+      these techniques has been closely linked to technological advance since, through 
+      the use of computer equipment, complex mathematical models can be solved with low
+      cost and time. This article presents OPS Design v2.0, a computer tool that allows
+      obtaining a preliminary optimal distribution of metallic structural profiles in a
+      Non-Braced Frame System (OMF: Ordinary Moment Frame). The optimization model
+      implemented in OPS Design v2.0 seeks to minimize the number of different profiles
+      and the structure's own weight in order to reduce the construction complexity and
+      the weight per linear meter (costs in quantities of material). To evaluate its
+      effectiveness, a case study was developed where it was concluded that the designs
+      produced by the application are more efficient than those obtained by commercial 
+      tools, thus reducing the computational expense and time used by designers in
+      iterative processes that are carried out in the initial phases project.
+CI  - (c) 2022 The Author(s).
+FAU - Duque, Edwin P
+AU  - Duque EP
+AD  - Department of Civil Engineering, Technical University of Loja, San Cayetano Alto,
+      Paris Street, Loja 110150, Province of Loja, Ecuador.
+AD  - Research Group in Seismic Engineering and Seismology of the Technical University 
+      of Loja, San Cayetano Alto, Paris Street, Loja 110150, Province of Loja, Ecuador.
+FAU - Villarreal, Daniel
+AU  - Villarreal D
+AD  - Research Group in Seismic Engineering and Seismology of the Technical University 
+      of Loja, San Cayetano Alto, Paris Street, Loja 110150, Province of Loja, Ecuador.
+FAU - Rojas A, Henrry
+AU  - Rojas A H
+AD  - Research Group in Seismic Engineering and Seismology of the Technical University 
+      of Loja, San Cayetano Alto, Paris Street, Loja 110150, Province of Loja, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20220409
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC9026614
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Optimization
+OT  - Steel structures
+OT  - Structural analysis
+COIS- The authors declare no conflict of interest.
+EDAT- 2022/04/26 06:00
+MHDA- 2022/04/26 06:01
+CRDT- 2022/04/25 05:36
+PHST- 2021/11/23 00:00 [received]
+PHST- 2022/02/03 00:00 [revised]
+PHST- 2022/04/05 00:00 [accepted]
+PHST- 2022/04/25 05:36 [entrez]
+PHST- 2022/04/26 06:00 [pubmed]
+PHST- 2022/04/26 06:01 [medline]
+AID - 10.1016/j.heliyon.2022.e09260 [doi]
+AID - S2405-8440(22)00548-5 [pii]
+PST - epublish
+SO  - Heliyon. 2022 Apr 9;8(4):e09260. doi: 10.1016/j.heliyon.2022.e09260. eCollection 
+      2022 Apr.
+
+PMID- 35197137
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220225
+LR  - 20220225
+IS  - 1988-2904 (Electronic)
+IS  - 1138-7416 (Linking)
+VI  - 25
+DP  - 2022 Feb 24
+TI  - Structural and Predictive Validity of the Spanish Short Version of Utrecht Work
+      Engagement Scale in Educational Institutions Workers.
+PG  - e10
+LID - 10.1017/SJP.2022.6 [doi]
+AB  - In this paper, we evaluate the factorial validity of the Spanish short version of
+      the Utrecht Work Engagement Scale (UWES-9) and assess its predictive validity
+      with respect to self-assessed work performance. A total of 229 employees from
+      educational institutions in Ecuador participated. Using a model comparison
+      analysis, the unidimensional model exhibited an excellent goodness of fit, chi2 =
+      26.176 (24), p = .344; CFI =1.000; TLI = 1.000; RMSEA = .020; SRMR = .034; it was
+      not improved by more complex models, Three-factor model: chi2 = 22.148 (21), p = 
+      .391; CFI =1.000; TLI = 1.000; RMSEA = .016; SRMR = .033. Two-factor model: chi2 
+      = 26.080 (23), p = .297; CFI = 1.000; TLI = 1.000; RMSEA = .025; SRMR = .034).
+      Therefore, it is justified as a unidimensional instrument of work engagement.
+      However, upon analyzing the correlation patterns of the overall score and the
+      work engagement dimensions in relation to the task performance, contextual
+      performance, and counterproductive behaviors, we conclude that, while the
+      unidimensional model exhibits a good fit, the three-factor theoretical approach
+      is substantively superior in that it maintains differential predictive validity
+      for each theoretical dimension.
+FAU - Santalla-Banderali, Zuleima
+AU  - Santalla-Banderali Z
+AUID- ORCID: https://orcid.org/0000-0003-0556-4967
+AD  - Universidad Espiritu Santo (Ecuador).
+FAU - Alvarado, Jesus M
+AU  - Alvarado JM
+AUID- ORCID: https://orcid.org/0000-0003-4780-0147
+AD  - Universidad Complutense (Spain).
+LA  - eng
+PT  - Journal Article
+DEP - 20220224
+PL  - England
+TA  - Span J Psychol
+JT  - The Spanish journal of psychology
+JID - 101095192
+SB  - IM
+MH  - Factor Analysis, Statistical
+MH  - Humans
+MH  - Psychometrics
+MH  - Reproducibility of Results
+MH  - Schools
+MH  - Surveys and Questionnaires
+MH  - *Work Engagement
+MH  - *Work Performance
+OTO - NOTNLM
+OT  - UWES-9
+OT  - Utrecht Work Engagement Scale
+OT  - construct validity
+OT  - work engagement
+EDAT- 2022/02/25 06:00
+MHDA- 2022/02/26 06:00
+CRDT- 2022/02/24 05:32
+PHST- 2022/02/24 05:32 [entrez]
+PHST- 2022/02/25 06:00 [pubmed]
+PHST- 2022/02/26 06:00 [medline]
+AID - 10.1017/SJP.2022.6 [doi]
+AID - S1138741622000063 [pii]
+PST - epublish
+SO  - Span J Psychol. 2022 Feb 24;25:e10. doi: 10.1017/SJP.2022.6.
+
+PMID- 35176053
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2022
+TI  - Study of citizen satisfaction and loyalty in the urban area of Guayaquil:
+      Perspective of the quality of public services applying structural equations.
+PG  - e0263331
+LID - 10.1371/journal.pone.0263331 [doi]
+AB  - This study investigates the satisfaction and adequacy of citizens through the
+      expected quality and perceived quality in the areas of planning and territorial
+      viability, experience in the provision of municipal services and citizen
+      experience in environmental issues, in order to provide tools for territorial
+      decision making for the citizens' well-being. In our research PLS software is
+      used for the analysis of hypotheses. A questionnaire was delivered to a sample of
+      521 citizens, representing the spectrum of the population, and the statistical
+      study of the responses yielded results on citizen satisfaction and loyalty. Our
+      research includes the study of moderating effects on the causal ratio of
+      perceived value and satisfaction in territorial planning and viability, the
+      perceived quality in the provision of municipal services and the perceived
+      quality in the citizen experience in the environmental management of the
+      territory on the value relationship perceived by the citizen and general
+      satisfaction. A second objective of the study is to see if there are significant 
+      differences in the hypotheses raised by gender by performing a multigroup
+      analysis. This difference has been appreciated in two of the hypotheses. The
+      study shows that the policies exercised by the territorial managers of the
+      different areas have a significant influence on the value perceived by citizens, 
+      satisfaction and loyalty, which shape their general well-being. Areas for
+      improvement in territorial policies and municipal services such as citizen
+      security, air quality, public lighting and sports services have been identified. 
+      Knowing these shortcomings allows politicians to focus their efforts on improving
+      the quality of life in cities.
+FAU - Ochoa Rico, Maria Salome
+AU  - Ochoa Rico MS
+AD  - Department Agricultural Economics, Finance, and Accounting, University of
+      Cordoba, Cordoba, Spain.
+FAU - Vergara-Romero, Arnaldo
+AU  - Vergara-Romero A
+AUID- ORCID: 0000-0001-8503-3685
+AD  - Department of Research, Ecotec University, Samborondon, Eucador.
+FAU - Subia, Jose Fernando Romero
+AU  - Subia JFR
+AD  - Department Agricultural Economics, Finance, and Accounting, University of
+      Cordoba, Cordoba, Spain.
+FAU - Del Rio, Juan Antonio Jimber
+AU  - Del Rio JAJ
+AD  - Department Agricultural Economics, Finance, and Accounting, University of
+      Cordoba, Cordoba, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20220217
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Adult
+MH  - *Citizen Science
+MH  - City Planning/*standards
+MH  - Ecuador
+MH  - Environment Design/*standards
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Patient Participation
+MH  - Patient Satisfaction/*statistics & numerical data
+MH  - Perception
+MH  - Public Health/*standards
+MH  - *Quality of Life
+MH  - Sustainable Development
+MH  - Urban Health/*standards
+PMC - PMC8853569
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/02/18 06:00
+MHDA- 2022/03/01 06:00
+CRDT- 2022/02/17 17:13
+PHST- 2021/09/01 00:00 [received]
+PHST- 2022/01/16 00:00 [accepted]
+PHST- 2022/02/17 17:13 [entrez]
+PHST- 2022/02/18 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+AID - 10.1371/journal.pone.0263331 [doi]
+AID - PONE-D-21-28034 [pii]
+PST - epublish
+SO  - PLoS One. 2022 Feb 17;17(2):e0263331. doi: 10.1371/journal.pone.0263331.
+      eCollection 2022.
+
+PMID- 34930525
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220125
+LR  - 20220125
+IS  - 2050-084X (Electronic)
+IS  - 2050-084X (Linking)
+VI  - 10
+DP  - 2021 Dec 21
+TI  - Mimicry can drive convergence in structural and light transmission features of
+      transparent wings in Lepidoptera.
+LID - 10.7554/eLife.69080 [doi]
+LID - e69080 [pii]
+AB  - Mullerian mimicry is a positive interspecific interaction, whereby co-occurring
+      defended prey species share a common aposematic signal. In Lepidoptera,
+      aposematic species typically harbour conspicuous opaque wing colour patterns with
+      convergent optical properties among co-mimetic species. Surprisingly, some
+      aposematic mimetic species have partially transparent wings, raising the
+      questions of whether optical properties of transparent patches are also
+      convergent, and of how transparency is achieved. Here, we conducted a comparative
+      study of wing optics, micro and nanostructures in neotropical mimetic clearwing
+      Lepidoptera, using spectrophotometry and microscopy imaging. We show that
+      transparency, as perceived by predators, is convergent among co-mimics in some
+      mimicry rings. Underlying micro- and nanostructures are also sometimes convergent
+      despite a large structural diversity. We reveal that while transparency is
+      primarily produced by microstructure modifications, nanostructures largely
+      influence light transmission, potentially enabling additional fine-tuning in
+      transmission properties. This study shows that transparency might not only enable
+      camouflage but can also be part of aposematic signals.
+CI  - (c) 2021, Pinna et al.
+FAU - Pinna, Charline Sophie
+AU  - Pinna CS
+AUID- ORCID: 0000-0002-4947-0893
+AD  - Institut de Systematique, Evolution, Biodiversite (ISYEB), CNRS, Museum national 
+      d'Histoire naturelle, Sorbonne Universite, EPHE, Universite des Antilles, Paris, 
+      France.
+FAU - Vilbert, Maelle
+AU  - Vilbert M
+AD  - Centre de Recherche sur la Conservation (CRC), CNRS, MNHN, Ministere de la
+      Culture, Paris, France.
+FAU - Borensztajn, Stephan
+AU  - Borensztajn S
+AD  - Institut de Physique du Globe de Paris (IPGP), Universite de Paris, CNRS, Paris, 
+      France.
+FAU - Daney de Marcillac, Willy
+AU  - Daney de Marcillac W
+AD  - Institut des NanoSciences de Paris (INSP), Sorbonne Universite, CNRS, Paris,
+      France.
+FAU - Piron-Prunier, Florence
+AU  - Piron-Prunier F
+AUID- ORCID: 0000-0003-2652-5123
+AD  - Institut de Systematique, Evolution, Biodiversite (ISYEB), CNRS, Museum national 
+      d'Histoire naturelle, Sorbonne Universite, EPHE, Universite des Antilles, Paris, 
+      France.
+FAU - Pomerantz, Aaron
+AU  - Pomerantz A
+AUID- ORCID: 0000-0002-6412-9001
+AD  - Marine Biological Laboratory, Woods Hole, United States.
+AD  - Department Integrative Biology, University of California Berkeley, Berkeley,
+      United States.
+FAU - Patel, Nipam H
+AU  - Patel NH
+AUID- ORCID: 0000-0003-4328-654X
+AD  - Marine Biological Laboratory, Woods Hole, United States.
+FAU - Berthier, Serge
+AU  - Berthier S
+AUID- ORCID: 0000-0002-9255-059X
+AD  - Institut des NanoSciences de Paris (INSP), Sorbonne Universite, CNRS, Paris,
+      France.
+FAU - Andraud, Christine
+AU  - Andraud C
+AUID- ORCID: 0000-0002-3112-9363
+AD  - Centre de Recherche sur la Conservation (CRC), CNRS, MNHN, Ministere de la
+      Culture, Paris, France.
+FAU - Gomez, Doris
+AU  - Gomez D
+AUID- ORCID: 0000-0002-9144-3426
+AD  - Centre d'Ecologie Fonctionnelle et Evolutive (CEFE), CNRS, Univ Montpellier,
+      Montpellier, France.
+FAU - Elias, Marianne
+AU  - Elias M
+AUID- ORCID: 0000-0002-1250-2353
+AD  - Institut de Systematique, Evolution, Biodiversite (ISYEB), CNRS, Museum national 
+      d'Histoire naturelle, Sorbonne Universite, EPHE, Universite des Antilles, Paris, 
+      France.
+LA  - eng
+SI  - Dryad/10.5061/dryad.c2fqz617s
+GR  - 27306C2005/ES/NIEHS NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211221
+PL  - England
+TA  - Elife
+JT  - eLife
+JID - 101579614
+SB  - IM
+MH  - Animals
+MH  - *Biological Evolution
+MH  - *Biological Mimicry
+MH  - Butterflies/*anatomy & histology
+MH  - Color
+MH  - Ecuador
+MH  - Female
+MH  - Male
+MH  - Peru
+MH  - Wings, Animal/*anatomy & histology
+PMC - PMC8691843
+OTO - NOTNLM
+OT  - *Lepidoptera
+OT  - *aposematism
+OT  - *ecology
+OT  - *evolutionary biology
+OT  - *insects
+OT  - *mimicry
+OT  - *nanostructures
+OT  - *optics
+OT  - *transparency
+COIS- CP, MV, SB, WD, FP, AP, NP, SB, CA, DG, ME No competing interests declared
+EDAT- 2021/12/22 06:00
+MHDA- 2022/01/27 06:00
+CRDT- 2021/12/21 05:54
+PHST- 2021/04/03 00:00 [received]
+PHST- 2021/11/19 00:00 [accepted]
+PHST- 2021/12/21 05:54 [entrez]
+PHST- 2021/12/22 06:00 [pubmed]
+PHST- 2022/01/27 06:00 [medline]
+AID - 10.7554/eLife.69080 [doi]
+AID - 69080 [pii]
+PST - epublish
+SO  - Elife. 2021 Dec 21;10. pii: 69080. doi: 10.7554/eLife.69080.
+
+PMID- 34884870
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220106
+LR  - 20220106
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 23
+DP  - 2021 Dec 2
+TI  - IFPTML Mapping of Drug Graphs with Protein and Chromosome Structural Networks vs.
+      Pre-Clinical Assay Information for Discovery of Antimalarial Compounds.
+LID - 13066 [pii]
+LID - 10.3390/ijms222313066 [doi]
+AB  - The parasite species of genus Plasmodium causes Malaria, which remains a major
+      global health problem due to parasite resistance to available Antimalarial drugs 
+      and increasing treatment costs. Consequently, computational prediction of new
+      Antimalarial compounds with novel targets in the proteome of Plasmodium sp. is a 
+      very important goal for the pharmaceutical industry. We can expect that the
+      success of the pre-clinical assay depends on the conditions of assay per se, the 
+      chemical structure of the drug, the structure of the target protein to be
+      targeted, as well as on factors governing the expression of this protein in the
+      proteome such as genes (Deoxyribonucleic acid, DNA) sequence and/or chromosomes
+      structure. However, there are no reports of computational models that consider
+      all these factors simultaneously. Some of the difficulties for this kind of
+      analysis are the dispersion of data in different datasets, the high heterogeneity
+      of data, etc. In this work, we analyzed three databases ChEMBL (Chemical database
+      of the European Molecular Biology Laboratory), UniProt (Universal Protein
+      Resource), and NCBI-GDV (National Center for Biotechnology Information-Genome
+      Data Viewer) to achieve this goal. The ChEMBL dataset contains outcomes for
+      17,758 unique assays of potential Antimalarial compounds including numeric
+      descriptors (variables) for the structure of compounds as well as a huge amount
+      of information about the conditions of assays. The NCBI-GDV and UniProt datasets 
+      include the sequence of genes, proteins, and their functions. In addition, we
+      also created two partitions (cassayj = caj and cdataj = cdj) of categorical
+      variables from theChEMBL dataset. These partitions contain variables that encode 
+      information about experimental conditions of preclinical assays (caj) or about
+      the nature and quality of data (cdj). These categorical variables include
+      information about 22 parameters of biological activity (ca0), 28 target proteins 
+      (ca1), and 9 organisms of assay (ca2), etc. We also created another partition of 
+      (cprotj = cpj) including categorical variables with biological information about 
+      the target proteins, genes, and chromosomes. These variables cover32 genes (cp0),
+      10 chromosomes (cp1), gene orientation (cp2), and 31 protein functions (cp3). We 
+      used a Perturbation-Theory Machine Learning Information Fusion (IFPTML) algorithm
+      to map all this information (from three databases) into and train a predictive
+      model. Shannon's entropy measure Shk (numerical variables) was used to quantify
+      the information about the structure of drugs, protein sequences, gene sequences, 
+      and chromosomes in the same information scale. Perturbation Theory Operators
+      (PTOs) with the form of Moving Average (MA) operators have been used to quantify 
+      perturbations (deviations) in the structural variables with respect to their
+      expected values for different subsets (partitions) of categorical variables. We
+      obtained three IFPTML models using General Discriminant Analysis (GDA),
+      Classification Tree with Univariate Splits (CTUS), and Classification Tree with
+      Linear Combinations (CTLC). The IFPTML-CTLC presented the better performance with
+      Sensitivity Sn(%) = 83.6/85.1, and Specificity Sp(%) = 89.8/89.7 for
+      training/validation sets, respectively. This model could become a useful tool for
+      the optimization of preclinical assays of new Antimalarial compounds vs.
+      different proteins in the proteome of Plasmodium.
+FAU - Quevedo-Tumailli, Viviana
+AU  - Quevedo-Tumailli V
+AUID- ORCID: 0000-0001-8278-3632
+AD  - Grupo RNASA-IMEDIR, Department of Computer Science, University of A Coruna, 15071
+      A Coruna, Spain.
+AD  - Research Department, Puyo Campus, Universidad Estatal Amazonica, Puyo 160150,
+      Ecuador.
+FAU - Ortega-Tenezaca, Bernabe
+AU  - Ortega-Tenezaca B
+AUID- ORCID: 0000-0001-9693-6951
+AD  - Grupo RNASA-IMEDIR, Department of Computer Science, University of A Coruna, 15071
+      A Coruna, Spain.
+AD  - Information and Communications Technology Management Department, Puyo Campus,
+      Universidad Estatal Amazonica, Puyo 160150, Ecuador.
+FAU - Gonzalez-Diaz, Humberto
+AU  - Gonzalez-Diaz H
+AUID- ORCID: 0000-0002-9392-2797
+AD  - Department of Organic and Inorganic Chemistry, University of the Basque Country
+      UPV/EHU, 48940 Leioa, Spain.
+AD  - BIOFISIKA, Basque Centre for Biophysics, CSIC-UPV/EHU, 48940 Leioa, Spain.
+AD  - IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Spain.
+LA  - eng
+GR  - PID2019-104148GB-I00/Ministerio de Fomento
+GR  - IT1045-16/Basque Government
+PT  - Journal Article
+DEP - 20211202
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Antimalarials)
+RN  - 0 (Protozoan Proteins)
+SB  - IM
+MH  - Algorithms
+MH  - Antimalarials/chemistry/*pharmacology
+MH  - Databases, Pharmaceutical
+MH  - Drug Discovery/*methods
+MH  - Drug Evaluation, Preclinical
+MH  - Genome, Protozoan
+MH  - *Machine Learning
+MH  - Markov Chains
+MH  - Models, Theoretical
+MH  - Plasmodium falciparum/*genetics
+MH  - Protozoan Proteins/chemistry/genetics/metabolism
+MH  - Reproducibility of Results
+PMC - PMC8657696
+OTO - NOTNLM
+OT  - Antimalarial compounds
+OT  - ChEMBL
+OT  - NCBI-GDV
+OT  - Plasmodium proteome
+OT  - UniProt
+OT  - complex networks
+OT  - machine learning
+OT  - perturbation theory
+EDAT- 2021/12/11 06:00
+MHDA- 2022/01/07 06:00
+CRDT- 2021/12/10 01:05
+PHST- 2021/10/18 00:00 [received]
+PHST- 2021/11/23 00:00 [revised]
+PHST- 2021/11/24 00:00 [accepted]
+PHST- 2021/12/10 01:05 [entrez]
+PHST- 2021/12/11 06:00 [pubmed]
+PHST- 2022/01/07 06:00 [medline]
+AID - ijms222313066 [pii]
+AID - 10.3390/ijms222313066 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Dec 2;22(23). pii: ijms222313066. doi: 10.3390/ijms222313066.
+
+PMID- 34656672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220125
+LR  - 20220125
+IS  - 1573-2517 (Electronic)
+IS  - 0165-0327 (Linking)
+VI  - 297
+DP  - 2022 Jan 15
+TI  - Structural gender inequalities and symptoms of postpartum depression in 40
+      countries.
+PG  - 381-385
+LID - S0165-0327(21)01081-8 [pii]
+LID - 10.1016/j.jad.2021.10.014 [doi]
+AB  - BACKGROUND: The role of structural gender inequality in macro-level differences
+      in women's perinatal mental health remains largely unexplored. This short
+      communication explores structural gender inequalities and their potential as a
+      macro-level, upstream social determinant of postpartum depression (PPD). METHODS:
+      We compiled meta-analytically derived national-level prevalence estimates of PPD 
+      symptoms - based on the Edinburgh Postnatal Depression Scale - with economic
+      (e.g., income inequality), health (e.g., infant mortality rate), sociodemographic
+      (e.g., urban population), and structural gender inequality variables (e.g.,
+      abortion policies) for 40 countries. Meta-regression techniques and traditional
+      p-value based stepwise procedures, complemented with a Bayesian model averaging
+      approach, were used for a robust selection of variables associated with
+      national-level PPD symptom prevalence. RESULTS: Income inequality (beta = 0.04,
+      95% CI = 0.02 to 0.07) and abortion policies (beta = 0.02, 95% CI = 0.00 to 0.03)
+      were the only variables selected in the final, adjusted model, accounting for
+      60.7% of cross-national variations in PPD symptoms. LIMITATIONS: Study quality of
+      primary studies was not assessed and some national-level meta-analytical
+      estimates were based on few primary studies. A fifth of world countries and
+      territories could be included, with high-income regions overrepresented. High
+      rate of missing national-level data for potential predictors of PPD.
+      Cross-sectional analyses precludes causal inferences. CONCLUSIONS: Abortion
+      policies are a significant macro-level social determinant of PPD, and its
+      liberalization might be associated with women's mental health at a population
+      level. Our findings should be a relevant argument for clinicians to advocate for 
+      changing discriminatory social norms against women.
+CI  - Copyright (c) 2021. Published by Elsevier B.V.
+FAU - Martinez, Pablo
+AU  - Martinez P
+AD  - Faculte de medecine et des sciences de la sante, Universite de Sherbrooke, 150,
+      place Charles-Le Moyne, Longueuil, Quebec J4K A08, Canada; Centre de recherche
+      Charles-Le Moyne, 150, place Charles-Le Moyne, Longueuil, Quebec J4K A08, Canada.
+      Electronic address: pablo.alberto.martinez.diaz@usherbrooke.ca.
+FAU - Nazif-Munoz, Jose Ignacio
+AU  - Nazif-Munoz JI
+AD  - Faculte de medecine et des sciences de la sante, Universite de Sherbrooke, 150,
+      place Charles-Le Moyne, Longueuil, Quebec J4K A08, Canada; Centre de recherche
+      Charles-Le Moyne, 150, place Charles-Le Moyne, Longueuil, Quebec J4K A08, Canada.
+FAU - Rojas, Graciela
+AU  - Rojas G
+AD  - Hospital Clinico Universidad de Chile, Carlos Lorca 999, Santiago 8380456, Chile;
+      Millennium Nucleus in Social Development (DESOC), Diagonal Paraguay 257, Santiago
+      8330015, Chile.
+FAU - Magana, Irene
+AU  - Magana I
+AD  - Escuela de Psicologia, Facultad de Humanidades, Universidad de Santiago de Chile,
+      Av. Ecuador 3650, Santiago 9170197, Chile.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20211014
+PL  - Netherlands
+TA  - J Affect Disord
+JT  - Journal of affective disorders
+JID - 7906073
+SB  - IM
+MH  - Bayes Theorem
+MH  - Cross-Sectional Studies
+MH  - *Depression, Postpartum/epidemiology
+MH  - Female
+MH  - Gender Identity
+MH  - Humans
+MH  - Postpartum Period
+MH  - Pregnancy
+MH  - Women's Health
+OTO - NOTNLM
+OT  - *Induced abortion
+OT  - *Meta-analysis
+OT  - *Postpartum depression
+OT  - *Social determinants of health
+OT  - *Women's rights
+EDAT- 2021/10/18 06:00
+MHDA- 2022/01/27 06:00
+CRDT- 2021/10/17 20:39
+PHST- 2021/07/15 00:00 [received]
+PHST- 2021/09/02 00:00 [revised]
+PHST- 2021/10/11 00:00 [accepted]
+PHST- 2021/10/18 06:00 [pubmed]
+PHST- 2022/01/27 06:00 [medline]
+PHST- 2021/10/17 20:39 [entrez]
+AID - S0165-0327(21)01081-8 [pii]
+AID - 10.1016/j.jad.2021.10.014 [doi]
+PST - ppublish
+SO  - J Affect Disord. 2022 Jan 15;297:381-385. doi: 10.1016/j.jad.2021.10.014. Epub
+      2021 Oct 14.
+
+PMID- 34617940
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20211020
+LR  - 20211020
+IS  - 1463-9084 (Electronic)
+IS  - 1463-9076 (Linking)
+VI  - 23
+IP  - 40
+DP  - 2021 Oct 20
+TI  - Impact of the solvent composition on the structural and mechanical properties of 
+      customizable electrospun poly(vinylpyrrolidone) fiber mats.
+PG  - 22923-22935
+LID - 10.1039/d1cp03145g [doi]
+AB  - The performance of fibrous membrane composites fabricated via electrospinning is 
+      strongly influenced by the solution's properties, process variables and ambient
+      conditions, although a precise mechanism for controlling the properties of the
+      resulting composite has remained elusive. In this work, we focus on the
+      fabrication of electrospun poly(vinylpyrrolidone) (PVP) fibers, by varying both
+      the polymer concentration and the mixture of ethanol (EtOH) and dimethylformamide
+      (DMF) used as solvent. The impact of the solvent composition on the structural
+      properties is assessed by a combined experimental and theoretical approach,
+      employing scanning electron microscopy (SEM), differential scanning calorimetry
+      (DSC), rheology, Fourier-transform infrared spectroscopy (FTIR) and stress-strain
+      curves obtained from tensile tests to characterize the fibrous membranes
+      produced, and density functional theory (DFT) calculations to explain the
+      solvent's affect on PVP crystallization. We establish a morphological phase
+      diagram, and propose a possible mechanism based on the measured fiber diameter
+      distribution, the viscoelastic properties of the precursor solution, the
+      correlation between the functional groups and the mechanical properties, the
+      thermal transitions and the degree of crystallinity. We also employ DFT
+      calculations to model the polymer coverage at equilibrium of a PVP polymer chain 
+      in the presence of EtOH/DMF solvent mixtures to corroborate the crucial role
+      their square with times signO or -OH groups play in achieving high PVP coverages 
+      and promoting the stability of the resulting fiber. These findings will be
+      valuable to researchers interested in predicting, modulating, and controlling
+      both a fiber's morphology and its concomitant physico-chemical properties.
+FAU - Narvaez-Munoz, Christian
+AU  - Narvaez-Munoz C
+AUID- ORCID: http://orcid.org/0000-0002-3472-4037
+AD  - Escola Tecnica Superior d'Enginyers de Camins, Canals i Ports, C/Jordi Girona 1, 
+      Campus Nord UPC, Universitat Politecnica de Catalunya-Barcelona Tech (UPC), 08034
+      Barcelona, Spain. christian.narvaez@upc.edu.
+AD  - Research Department, Electrohydrodynamic Technology (EHDTECH), 170708 Quito,
+      Ecuador.
+FAU - Diaz-Suntaxi, Diego Fernando
+AU  - Diaz-Suntaxi DF
+AD  - Laboratorio de Reologia y Fluidos Complejos, Universidad de las Fuerzas Armadas
+      (ESPE), Sangolqui, Ecuador.
+FAU - Carrion-Matamoros, Luis M
+AU  - Carrion-Matamoros LM
+AUID- ORCID: http://orcid.org/0000-0002-6069-7888
+AD  - Laboratorio de Reologia y Fluidos Complejos, Universidad de las Fuerzas Armadas
+      (ESPE), Sangolqui, Ecuador.
+FAU - Guerrero, Victor H
+AU  - Guerrero VH
+AUID- ORCID: http://orcid.org/0000-0002-5656-2606
+AD  - Departamento de Materiales, Escuela Politecnica Nacional, Quito, 170525, Ecuador.
+FAU - Almeida-Naranjo, Cristina E
+AU  - Almeida-Naranjo CE
+AD  - Departamento de Ingenieria Mecanica, Escuela Politecnica Nacional, Quito, 170525,
+      Ecuador.
+FAU - Morales-Florez, Victor
+AU  - Morales-Florez V
+AUID- ORCID: http://orcid.org/0000-0003-4120-2832
+AD  - Departamento de Fisica de la Materia Condensada, Universidad de Sevilla, Avenida 
+      Reina Mercedes, 41012 Seville, Spain.
+FAU - Debut, Alexis
+AU  - Debut A
+AUID- ORCID: http://orcid.org/0000-0002-8269-7619
+AD  - Centro de Nanociencia y Nanotecnologia, Universidad de las Fuerzas Armadas
+      (ESPE), Sangolqui, Ecuador.
+FAU - Vizuete, Karla
+AU  - Vizuete K
+AUID- ORCID: http://orcid.org/0000-0002-8912-5402
+AD  - Centro de Nanociencia y Nanotecnologia, Universidad de las Fuerzas Armadas
+      (ESPE), Sangolqui, Ecuador.
+FAU - Mowbray, Duncan John
+AU  - Mowbray DJ
+AUID- ORCID: http://orcid.org/0000-0002-8520-0364
+AD  - School of Physical Sciences and Nanotechnology, Yachay Tech University, 100119
+      Urcuqui, Ecuador.
+FAU - Zamora-Ledezma, Camilo
+AU  - Zamora-Ledezma C
+AUID- ORCID: http://orcid.org/0000-0002-8704-1539
+AD  - Tissue Regeneration and Repair: Orthobiology, Biomaterials & Tissue Engineering
+      Research Group, UCAM - Universidad Catolica de Murcia, Avda. Los Jeronimos 135,
+      Guadalupe, 30107, Murcia, Spain. czamora9@ucam.edu.
+LA  - eng
+PT  - Journal Article
+DEP - 20211020
+PL  - England
+TA  - Phys Chem Chem Phys
+JT  - Physical chemistry chemical physics : PCCP
+JID - 100888160
+SB  - IM
+EDAT- 2021/10/08 06:00
+MHDA- 2021/10/08 06:01
+CRDT- 2021/10/07 12:21
+PHST- 2021/10/08 06:00 [pubmed]
+PHST- 2021/10/08 06:01 [medline]
+PHST- 2021/10/07 12:21 [entrez]
+AID - 10.1039/d1cp03145g [doi]
+PST - epublish
+SO  - Phys Chem Chem Phys. 2021 Oct 20;23(40):22923-22935. doi: 10.1039/d1cp03145g.
+
+PMID- 34446754
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20211004
+LR  - 20211004
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 11
+IP  - 1
+DP  - 2021 Aug 26
+TI  - Phytochemistry reflects different evolutionary history in traditional classes
+      versus specialized structural motifs.
+PG  - 17247
+LID - 10.1038/s41598-021-96431-3 [doi]
+AB  - Foundational hypotheses addressing plant-insect codiversification and plant
+      defense theory typically assume a macroevolutionary pattern whereby closely
+      related plants have similar chemical profiles. However, numerous studies have
+      documented variation in the degree of phytochemical trait lability, raising the
+      possibility that phytochemical evolution is more nuanced than initially assumed. 
+      We utilize proton nuclear magnetic resonance ((1)H NMR) data, chemical
+      classification, and double digest restriction-site associated DNA sequencing
+      (ddRADseq) to resolve evolutionary relationships and characterize the evolution
+      of secondary chemistry in the Neotropical plant clade Radula (Piper; Piperaceae).
+      Sequencing data substantially improved phylogenetic resolution relative to past
+      studies, and spectroscopic characterization revealed the presence of 35
+      metabolite classes. Metabolite classes displayed phylogenetic signal, whereas the
+      crude (1)H NMR spectra featured little evidence of phylogenetic signal in
+      multivariate tests of chemical resonances. Evolutionary correlations were
+      detected in two pairs of compound classes (flavonoids with chalcones; p-alkenyl
+      phenols with kavalactones), where the gain or loss of a class was dependent on
+      the other's state. Overall, the evolution of secondary chemistry in Radula is
+      characterized by strong phylogenetic signal of traditional compound classes and
+      weak phylogenetic signal of specialized chemical motifs, consistent with both
+      classic evolutionary hypotheses and recent examinations of phytochemical
+      evolution in young lineages.
+CI  - (c) 2021. The Author(s).
+FAU - Uckele, Kathryn A
+AU  - Uckele KA
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+FAU - Jahner, Joshua P
+AU  - Jahner JP
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA. jpjahner@gmail.com.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+      jpjahner@gmail.com.
+FAU - Tepe, Eric J
+AU  - Tepe EJ
+AD  - Department of Biological Sciences, University of Cincinnati, Cincinnati, OH,
+      45221, USA.
+FAU - Richards, Lora A
+AU  - Richards LA
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+FAU - Dyer, Lee A
+AU  - Dyer LA
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+AD  - Seccion Invertebrados, Museo Ecuatoriano de Ciencias Naturales, Quito, Ecuador.
+FAU - Ochsenrider, Kaitlin M
+AU  - Ochsenrider KM
+AD  - Department of Chemistry, University of Nevada, Reno, NV, 89557, USA.
+FAU - Philbin, Casey S
+AU  - Philbin CS
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+FAU - Kato, Massuo J
+AU  - Kato MJ
+AD  - Department of Fundamental Chemistry, Institute of Chemistry, University of Sao
+      Paulo, Sao Paulo, Brazil.
+FAU - Yamaguchi, Lydia F
+AU  - Yamaguchi LF
+AD  - Department of Fundamental Chemistry, Institute of Chemistry, University of Sao
+      Paulo, Sao Paulo, Brazil.
+FAU - Forister, Matthew L
+AU  - Forister ML
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+FAU - Smilanich, Angela M
+AU  - Smilanich AM
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+FAU - Dodson, Craig D
+AU  - Dodson CD
+AD  - Department of Chemistry, University of Nevada, Reno, NV, 89557, USA.
+FAU - Jeffrey, Christopher S
+AU  - Jeffrey CS
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Hitchcock Center for Chemical Ecology, University of Nevada, Reno, NV, 89557,
+      USA.
+AD  - Department of Chemistry, University of Nevada, Reno, NV, 89557, USA.
+FAU - Parchman, Thomas L
+AU  - Parchman TL
+AD  - Program in Ecology, Evolution, and Conservation Biology, University of Nevada,
+      Reno, NV, 89557, USA.
+AD  - Department of Biology, University of Nevada, Reno, NV, 89557, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210826
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+SB  - IM
+PMC - PMC8390663
+EDAT- 2021/08/28 06:00
+MHDA- 2021/08/28 06:01
+CRDT- 2021/08/27 06:23
+PHST- 2021/02/19 00:00 [received]
+PHST- 2021/07/15 00:00 [accepted]
+PHST- 2021/08/27 06:23 [entrez]
+PHST- 2021/08/28 06:00 [pubmed]
+PHST- 2021/08/28 06:01 [medline]
+AID - 10.1038/s41598-021-96431-3 [doi]
+AID - 10.1038/s41598-021-96431-3 [pii]
+PST - epublish
+SO  - Sci Rep. 2021 Aug 26;11(1):17247. doi: 10.1038/s41598-021-96431-3.
+
+PMID- 34421159
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210918
+IS  - 0167-7322 (Print)
+IS  - 0167-7322 (Linking)
+VI  - 340
+DP  - 2021 Oct 15
+TI  - Structural deformability induced in proteins of potential interest associated
+      with COVID-19 by binding of homologues present in ivermectin: Comparative study
+      based in elastic networks models.
+PG  - 117284
+LID - 10.1016/j.molliq.2021.117284 [doi]
+AB  - The COVID-19 pandemic has accelerated the study of the potential of multi-target 
+      drugs (MTDs). The mixture of homologues called ivermectin (avermectin-B1a +
+      avermectin-B1b) has been shown to be a MTD with potential antiviral activity
+      against SARS-CoV-2 in vitro. However, there are few reports on the effect of each
+      homologue on the flexibility and stiffness of proteins associated with COVID-19, 
+      described as ivermectin targets. We observed that each homologue was stably bound
+      to the proteins studied and was able to induce detectable changes with Elastic
+      Network Models (ENM). The perturbations induced by each homologue were
+      characteristic of each compound and, in turn, were represented by a disruption of
+      native intramolecular networks (interactions between residues). The homologues
+      were able to slightly modify the conformation and stability of the connection
+      points between the Calpha atoms of the residues that make up the structural
+      network of proteins (nodes), compared to free proteins. Each homologue was able
+      to modified differently the distribution of quasi-rigid regions of the proteins, 
+      which could theoretically alter their biological activities. These results could 
+      provide a biophysical-computational view of the potential MTD mechanism that has 
+      been reported for ivermectin.
+CI  - (c) 2021 Elsevier B.V. All rights reserved.
+FAU - Gonzalez-Paz, Lenin
+AU  - Gonzalez-Paz L
+AD  - Universidad del Zulia (LUZ), Facultad Experimental de Ciencias (FEC),
+      Departamento de Biologia. Laboratorio de Genetica y Biologia Molecular (LGBM),
+      4001 Maracaibo, Republica Bolivariana de Venezuela.
+AD  - Instituto Venezolano de Investigaciones Cientificas (IVIC), Centro de Estudios
+      Botanicos y Agroforestales (CEBA), Laboratorio de Proteccion Vegetal (LPV), 4001 
+      Maracaibo, Republica Bolivariana de Venezuela.
+FAU - Hurtado-Leon, Maria Laura
+AU  - Hurtado-Leon ML
+AD  - Universidad del Zulia (LUZ), Facultad Experimental de Ciencias (FEC),
+      Departamento de Biologia. Laboratorio de Genetica y Biologia Molecular (LGBM),
+      4001 Maracaibo, Republica Bolivariana de Venezuela.
+FAU - Lossada, Carla
+AU  - Lossada C
+AD  - Instituto Venezolano de Investigaciones Cientificas (IVIC), Centro de
+      Investigacion y Tecnologia de Materiales (CITeMA), Laboratorio de Caracterizacion
+      Molecular y Biomolecular, 4001 Maracaibo, Republica Bolivariana de Venezuela.
+FAU - Fernandez-Materan, Francelys V
+AU  - Fernandez-Materan FV
+AD  - Instituto Venezolano de Investigaciones Cientificas (IVIC), Centro de
+      Investigacion y Tecnologia de Materiales (CITeMA), Laboratorio de Caracterizacion
+      Molecular y Biomolecular, 4001 Maracaibo, Republica Bolivariana de Venezuela.
+FAU - Vera-Villalobos, Joan
+AU  - Vera-Villalobos J
+AD  - Facultad de Ciencias Naturales y Matematicas, Departamento de Quimica y Ciencias 
+      Ambientales, Laboratorio de Analisis Quimico Instrumental (LAQUINS), Escuela
+      Superior Politecnica del Litoral, Guayaquil, Ecuador.
+FAU - Lorono, Marcos
+AU  - Lorono M
+AD  - Departamento Academico de Quimica Analitica e Instrumental, Facultad de Quimica e
+      Ingenieria Quimica, Universidad Nacional Mayor de San Marcos, Lima, Peru.
+FAU - Paz, J L
+AU  - Paz JL
+AD  - Departamento Academico de Quimica Inorganica, Facultad de Quimica e Ingenieria
+      Quimica, Universidad Nacional Mayor de San Marcos, Lima, Peru.
+FAU - Jeffreys, Laura
+AU  - Jeffreys L
+AD  - Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA, UK.
+FAU - Alvarado, Ysaias J
+AU  - Alvarado YJ
+AD  - Instituto Venezolano de Investigaciones Cientificas (IVIC), Centro de
+      Investigacion y Tecnologia de Materiales (CITeMA), Laboratorio de Caracterizacion
+      Molecular y Biomolecular, 4001 Maracaibo, Republica Bolivariana de Venezuela.
+LA  - eng
+PT  - Journal Article
+DEP - 20210817
+PL  - Netherlands
+TA  - J Mol Liq
+JT  - Journal of molecular liquids
+JID - 9882716
+PMC - PMC8367659
+OTO - NOTNLM
+OT  - ANM
+OT  - ANM, Anisotropic Network Models
+OT  - CG, Coarse-Grained
+OT  - ENM
+OT  - ENM, Elastic Network Models
+OT  - GNM
+OT  - GNM, Gaussian Network Model
+OT  - NMA
+OT  - NMA, Normal Mode Analysis
+OT  - PSN, Protein Structure Network
+OT  - SARS-CoV-2
+OT  - SPECTRUS, SPECTral-based Rigid Units Subdivision
+OT  - SWAXS, Small- and Wide-Angle X-ray Scattering curves
+COIS- The authors declare that they have no known competing financial interests or
+      personal relationships that could have appeared to influence the work reported in
+      this paper.
+EDAT- 2021/08/24 06:00
+MHDA- 2021/08/24 06:01
+CRDT- 2021/08/23 06:19
+PHST- 2021/04/07 00:00 [received]
+PHST- 2021/08/10 00:00 [revised]
+PHST- 2021/08/12 00:00 [accepted]
+PHST- 2021/08/24 06:00 [pubmed]
+PHST- 2021/08/24 06:01 [medline]
+PHST- 2021/08/23 06:19 [entrez]
+AID - 10.1016/j.molliq.2021.117284 [doi]
+AID - S0167-7322(21)02008-0 [pii]
+PST - ppublish
+SO  - J Mol Liq. 2021 Oct 15;340:117284. doi: 10.1016/j.molliq.2021.117284. Epub 2021
+      Aug 17.
+
+PMID- 33529631
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210728
+LR  - 20210728
+IS  - 1879-0003 (Electronic)
+IS  - 0141-8130 (Linking)
+VI  - 175
+DP  - 2021 Apr 1
+TI  - Structural, enzymatic and pharmacological profiles of AplTX-II - A basic sPLA2
+      (D49) isolated from the Agkistrodon piscivorus leucostoma snake venom.
+PG  - 572-585
+LID - S0141-8130(21)00235-X [pii]
+LID - 10.1016/j.ijbiomac.2021.01.187 [doi]
+AB  - A basic sPLA2 (D49) from the venom of snake Agkistrodon piscivorus leucostoma
+      (AplTX-II) was isolated, purified and characterized. We determined the enzymatic 
+      and pharmacological profiles of this toxin. AplTX-II was isolated with a high
+      level of purity through reverse phase chromatography and molecular exclusion. The
+      enzyme showed pI 9.48 and molecular weight of 14,003 Da. The enzymatic activity
+      of the AplTX-II depended on Ca(2+) pH and temperature. The comparison of the
+      primary structure with other sPLA2s revealed that AplTX-II presented all the
+      structural reasons expected for a basic sPLA2s. Additionally, we have resolved
+      its structure with the docked synthetic substrate NOBA (4-nitro-3-octanoyloxy
+      benzoic acid) by homology modeling, and performed MD simulations with explicit
+      solvent. Structural similarities were found between the enzyme's modeled
+      structure and other snake sPLA2 X-Ray structures, available in the PDB database. 
+      NOBA and active-site water molecules spontaneously adopted stable positions and
+      established interactions in full agreement with the reaction mechanism, proposed 
+      for the physiological substrate, suggesting that NOBA hydrolysis is an excellent 
+      model to study phospholipid hydrolysis.
+CI  - Copyright (c) 2018 Elsevier B.V. All rights reserved.
+FAU - Resende, Leticia M
+AU  - Resende LM
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - Almeida, Jose R
+AU  - Almeida JR
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador.
+FAU - Guaraca-Medina, Tatiana A
+AU  - Guaraca-Medina TA
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador.
+FAU - Viegas, Matilde F
+AU  - Viegas MF
+AD  - LAQV/Requimte, University of Porto, Rua do Campo Alegre s/n, Porto, Portugal;
+      Department of Chemistry and Biochemistry, Faculty of Sciences, University of
+      Porto, Rua do Campo Alegre s/n, Porto, Portugal.
+FAU - Soares, Andreimar M
+AU  - Soares AM
+AD  - Biotechnology Laboratory for Proteins and Bioactive Compounds from the Western
+      Amazon, Oswaldo Cruz Foundation Rondonia, Porto Velho, Rondonia, Brazil; Oswaldo 
+      Cruz Foundation, FIOCRUZ, Rondonia and Federal University of Rondonia, UNIR,
+      Porto Velho, RO, Brazil.
+FAU - Ramos, Maria J
+AU  - Ramos MJ
+AD  - LAQV/Requimte, University of Porto, Rua do Campo Alegre s/n, Porto, Portugal;
+      Department of Chemistry and Biochemistry, Faculty of Sciences, University of
+      Porto, Rua do Campo Alegre s/n, Porto, Portugal.
+FAU - Fernandes, Pedro A
+AU  - Fernandes PA
+AD  - LAQV/Requimte, University of Porto, Rua do Campo Alegre s/n, Porto, Portugal;
+      Department of Chemistry and Biochemistry, Faculty of Sciences, University of
+      Porto, Rua do Campo Alegre s/n, Porto, Portugal.
+FAU - Marangoni, Sergio
+AU  - Marangoni S
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - Da Silva, Saulo L
+AU  - Da Silva SL
+AD  - LAQV/Requimte, University of Porto, Rua do Campo Alegre s/n, Porto, Portugal;
+      Department of Chemistry and Biochemistry, Faculty of Sciences, University of
+      Porto, Rua do Campo Alegre s/n, Porto, Portugal; Faculty of Chemical Sciences,
+      University of Cuenca, Cuenca, Azuay, Ecuador. Electronic address:
+      saulo.da.silva@ucuenca.edu.ec.
+LA  - eng
+PT  - Journal Article
+DEP - 20210130
+PL  - Netherlands
+TA  - Int J Biol Macromol
+JT  - International journal of biological macromolecules
+JID - 7909578
+RN  - 0 (Crotalid Venoms)
+RN  - 0 (Phospholipids)
+RN  - 0 (Snake Venoms)
+RN  - EC 3.1.1.4 (Phospholipases A2, Secretory)
+SB  - IM
+MH  - Agkistrodon/*metabolism/physiology
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Crotalid Venoms/enzymology
+MH  - Molecular Weight
+MH  - Phospholipases A2, Secretory/chemistry/*isolation & purification/metabolism
+MH  - Phospholipids/chemistry
+MH  - Snake Venoms/*chemistry/isolation & purification
+MH  - Snakes
+OTO - NOTNLM
+OT  - Agkistrodon piscivorus leuscostoma
+OT  - Basic sPLA(2) D49
+OT  - Molecular modeling
+OT  - NOBA (4-nitro-3-octanoyloxy benzoic acid)
+COIS- Declaration of competing interest The authors declare that they have no competing
+      interests.
+EDAT- 2021/02/03 06:00
+MHDA- 2021/07/29 06:00
+CRDT- 2021/02/02 20:09
+PHST- 2020/07/27 00:00 [received]
+PHST- 2021/01/25 00:00 [revised]
+PHST- 2021/01/28 00:00 [accepted]
+PHST- 2021/02/03 06:00 [pubmed]
+PHST- 2021/07/29 06:00 [medline]
+PHST- 2021/02/02 20:09 [entrez]
+AID - S0141-8130(21)00235-X [pii]
+AID - 10.1016/j.ijbiomac.2021.01.187 [doi]
+PST - ppublish
+SO  - Int J Biol Macromol. 2021 Apr 1;175:572-585. doi: 10.1016/j.ijbiomac.2021.01.187.
+      Epub 2021 Jan 30.
+
+PMID- 33298825
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210514
+LR  - 20210514
+IS  - 1941-5923 (Electronic)
+IS  - 1941-5923 (Linking)
+VI  - 21
+DP  - 2020 Dec 10
+TI  - Exercise-Induced Sustained Ventricular Tachycardia without Structural Heart
+      Disease: A Case Report.
+PG  - e928242
+LID - 10.12659/AJCR.928242 [doi]
+AB  - BACKGROUND Exercise-induced ventricular tachycardia (VT) has been widely reported
+      in patients with preexisting structural heart disease or underlying ischemia and 
+      is attributed to reentry tachycardia and abnormal automaticity. However, studies 
+      regarding exercise-induced VT in individuals without evident structural heart
+      disease are still limited. CASE REPORT A 51-year-old woman came to our practice
+      for a treadmill stress echocardiogram. The patient experienced only mild chest
+      discomfort and was otherwise asymptomatic. Cardiovascular risk factors were
+      significant only for obesity and positive family history of coronary artery
+      disease in the mother. During the exercise stress test, the patient developed
+      wide complex VT with multiple capture beats accompanied by nausea and dizziness, 
+      which lasted approximately 2 minutes before resolving spontaneously. Subsequent
+      evaluation with magnetic resonance imaging, transthoracic echocardiography, and
+      coronary angiography revealed an absence of apparent structural heart disease.
+      CONCLUSIONS Exercise-induced VT in the absence of structural heart disease,
+      although rare, can pose a life-threatening event and requires different
+      considerations for management. The benefits of currently available therapeutic
+      options have yet to be elucidated for this subset of patients. Thus, we assert
+      that there is a need for further investigation on the approach of
+      exercise-induced VT in patients without structural heart disease.
+FAU - Darmadi, Michelle Audrey
+AU  - Darmadi MA
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Faculty of Medicine, University of Indonesia, Depok, Indonesia.
+FAU - Duval, Axel
+AU  - Duval A
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - School of Medicine, University of Carabobo, Carabobo, Venezuela.
+FAU - Khadraoui, Hanaa
+AU  - Khadraoui H
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Department of Cardiology, Touro College of Osteopathic Medicine, New York City,
+      NY, USA.
+FAU - Romero, Alberto N
+AU  - Romero AN
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Faculty of Medicine, Pontifical Catholic University of Ecuador, Quito, Ecuador.
+FAU - Simon, Blanca
+AU  - Simon B
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Faculty of Medicine and Dentistry, University of Valencia, Valencia, Spain.
+FAU - Watkowska, Justyna
+AU  - Watkowska J
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Department of Cardiology, New York University Grossman School of Medicine, New
+      York City, NY, USA.
+FAU - Saint-Jacques, Henock
+AU  - Saint-Jacques H
+AD  - Department of Cardiology, Harlem Cardiology, New York City, NY, USA.
+AD  - Department of Cardiology, New York University Grossman School of Medicine, New
+      York City, NY, USA.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20201210
+PL  - United States
+TA  - Am J Case Rep
+JT  - The American journal of case reports
+JID - 101489566
+SB  - IM
+MH  - Coronary Angiography
+MH  - Electrocardiography
+MH  - Exercise Test
+MH  - Female
+MH  - *Heart Diseases
+MH  - Humans
+MH  - Middle Aged
+MH  - *Tachycardia, Ventricular/diagnosis/etiology
+PMC - PMC7736153
+EDAT- 2020/12/11 06:00
+MHDA- 2021/05/15 06:00
+CRDT- 2020/12/10 05:43
+PHST- 2020/12/10 05:43 [entrez]
+PHST- 2020/12/11 06:00 [pubmed]
+PHST- 2021/05/15 06:00 [medline]
+AID - 928242 [pii]
+AID - 10.12659/AJCR.928242 [doi]
+PST - epublish
+SO  - Am J Case Rep. 2020 Dec 10;21:e928242. doi: 10.12659/AJCR.928242.
+
+PMID- 32887866
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200907
+IS  - 2053-2296 (Electronic)
+IS  - 2053-2296 (Linking)
+VI  - 76
+IP  - Pt 9
+DP  - 2020 Sep 1
+TI  - Chemistry of transition-metal complexes containing functionalized phosphines:
+      synthesis and structural analysis of rhodium(I) complexes containing allyl and
+      cyanoalkylphosphines.
+PG  - 932-946
+LID - 10.1107/S2053229620011420 [doi]
+AB  - A series of related acetylacetonate-carbonyl-rhodium compounds substituted by
+      functionalized phosphines has been prepared in good to excellent yields by the
+      reaction of [Rh(acac)(CO)2] (acac is acetylacetonate) with the corresponding
+      allyl-, cyanomethyl- or cyanoethyl-substituted phosphines. All compounds were
+      fully characterized by (31)P, (1)H, (13)C NMR and IR spectroscopy. The X-ray
+      structures of
+      (acetylacetonato-kappa(2)O,O')(tert-butylphosphanedicarbonitrile-kappaP)carbonylr
+      hodium(I), [Rh(C5H7O2)(CO)(C8H13N2)] or [Rh(acac)(CO)((t)BuP(CH2CN)2}] (2b),
+      (acetylacetonato-kappa(2)O,O')carbonyl[3-(diphenylphosphanyl)propanenitrile-kappa
+      P]rhodium(I), [Rh(C5H7O2)(C15H14N)(CO)] or [Rh(acac)(CO){Ph2P(CH2CH2CN)}] (2h),
+      and
+      (acetylacetonato-kappa(2)O,O')carbonyl[3-(di-tert-butylphosphanyl)propanenitrile-
+      kappaP]rhodium(I), [Rh(C5H7O2)(C11H22N)(CO)] or [Rh(acac)(CO){(t)Bu2P(CH2CH2CN)}]
+      (2i), showed a square-planar geometry around the Rh atom with a significant trans
+      influence over the acetylacetonate moiety, evidenced by long Rh-O bond lengths as
+      expected for poor pi-acceptor phosphines. The Rh-P distances displayed an inverse
+      linear dependence with the coupling constants JP-Rh and the IR
+      nu(C[triple-bond]O) bands, which accounts for the Rh-P electronic bonding feature
+      (poor pi-acceptors) of these complexes. A combined study from density functional 
+      theory (DFT) calculations and an evaluation of the intramolecular H...Rh contacts
+      from X-ray diffraction data allowed a comparison of the conformational
+      preferences of these complexes in the solid state versus the isolated compounds
+      in the gas phase. For 2b, 2h and 2i, an energy-framework study evidenced that the
+      crystal structures are mainly governed by dispersive energy. In fact, strong
+      pairwise molecular dispersive interactions are responsible for the columnar
+      arrangement observed in these complexes. A Hirshfeld surface analysis employing
+      three-dimensional molecular surface contours and two-dimensional fingerprint
+      plots indicated that the structures are stabilized by H...H, C...H, H...O, H...N 
+      and H...Rh intermolecular interactions.
+FAU - Atencio, Reinaldo
+AU  - Atencio R
+AUID- ORCID: 0000-0003-2031-4333
+AD  - Facultad de Ciencias Naturales y Matematicas, Departamento de Ciencias Qumicas y 
+      Ambientales, Escuela Superior Politecnica del Litoral (ESPOL), Km. 30.5 via
+      Perimetral, Guayaquil, 04-3708000, Ecuador.
+FAU - Chacon, Gustavo
+AU  - Chacon G
+AD  - Facultad Experimental de Ciencias, Departamento de Quimica, Laboratorio de
+      Quimica Inorganica, Universidad del Zulia, Apdo. 526, Maracaibo, Zulia,
+      Venezuela.
+FAU - Mendoza, Lisbeth
+AU  - Mendoza L
+AD  - Centro de Quimica, Instituto Venezolano de Investigaciones Cientficas (IVIC),
+      1020-A, Caracas, Miranda, Venezuela.
+FAU - Gonzalez, Teresa
+AU  - Gonzalez T
+AD  - Centro de Quimica, Instituto Venezolano de Investigaciones Cientficas (IVIC),
+      1020-A, Caracas, Miranda, Venezuela.
+FAU - Bruno-Colmenarez, Julia
+AU  - Bruno-Colmenarez J
+AD  - Departamento de Investigacion y Tecnologia de Materiales (DITEMA), Instituto
+      Venezolano de Investigaciones Cientficas (IVIC-Zulia), Maracaibo, Zulia,
+      Venezuela.
+FAU - Rosales, Merlin
+AU  - Rosales M
+AD  - Facultad Experimental de Ciencias, Departamento de Quimica, Laboratorio de
+      Quimica Inorganica, Universidad del Zulia, Apdo. 526, Maracaibo, Zulia,
+      Venezuela.
+FAU - Alexander, Briceno
+AU  - Alexander B
+AD  - Centro de Quimica, Instituto Venezolano de Investigaciones Cientficas (IVIC),
+      1020-A, Caracas, Miranda, Venezuela.
+FAU - Ocando-Mavarez, Edgar
+AU  - Ocando-Mavarez E
+AUID- ORCID: 0000-0002-2439-4177
+AD  - Centro de Quimica, Instituto Venezolano de Investigaciones Cientficas (IVIC),
+      1020-A, Caracas, Miranda, Venezuela.
+LA  - eng
+GR  - G-2005000433/Ministerio del Poder Popular para Ciencia y Tecnologia, FONACIT
+GR  - G-2005000447/Ministerio del Poder Popular para Ciencia y Tecnologia, FONACIT
+GR  - LAB-97000821/Ministerio del Poder Popular para Ciencia y Tecnologia, FONACIT
+PT  - Journal Article
+DEP - 20200830
+PL  - England
+TA  - Acta Crystallogr C Struct Chem
+JT  - Acta crystallographica. Section C, Structural chemistry
+JID - 101620313
+SB  - IM
+OTO - NOTNLM
+OT  - DFT
+OT  - Hirshfeld analysis
+OT  - crystal structure
+OT  - energy framework
+OT  - functionalized phosphine
+OT  - rhodium(I)
+EDAT- 2020/09/06 06:00
+MHDA- 2020/09/06 06:01
+CRDT- 2020/09/05 05:16
+PHST- 2020/08/03 00:00 [received]
+PHST- 2020/08/20 00:00 [accepted]
+PHST- 2020/09/05 05:16 [entrez]
+PHST- 2020/09/06 06:00 [pubmed]
+PHST- 2020/09/06 06:01 [medline]
+AID - S2053229620011420 [pii]
+AID - 10.1107/S2053229620011420 [doi]
+PST - ppublish
+SO  - Acta Crystallogr C Struct Chem. 2020 Sep 1;76(Pt 9):932-946. doi:
+      10.1107/S2053229620011420. Epub 2020 Aug 30.
+
+PMID- 32775736
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 2405-8440 (Print)
+IS  - 2405-8440 (Linking)
+VI  - 6
+IP  - 7
+DP  - 2020 Jul
+TI  - Ecological quality of a forest in a state of succession based on structural
+      parameters: A case study in an evergreen Amazonian-Andean forest, Ecuador.
+PG  - e04592
+LID - 10.1016/j.heliyon.2020.e04592 [doi]
+AB  - The evergreen forests of the Ecuadorian Amazon Region are altered by
+      anthropogenic and natural factors. This provokes the need to look for tools that 
+      facilitate decision-making in support of restoration. We characterized the
+      ecological structure and distribution of an evergreen Amazonian-Andean forest in 
+      the upper Puyo River micro-basin as a base for establishing an ecological quality
+      index. The inventory was assessed using transects 0.1 ha (10 m x 100 m),
+      registering the species with diameters at 1.30 m height >/=10 cm. We encountered 
+      a high degree of richness (30 families, 65 species and 322 individuals). The
+      structural parameters indicated the predominance of a heterogeneous forest, with 
+      characteristics belonging to disturbed forests. A non-continuous vertical
+      distribution pattern was found, determined by 78% of the species in a single
+      stratum. The mixing ratio resulted in a higher proportion (1:5) for the lower
+      class. The species Wettinia maynensis, Alchornea glandulosa, Miconia splendens,
+      Piptocoma discolor and Inga velutina had the highest ecological value. The
+      principal components analysis distinguished the abundance of species that had a
+      high correlation with the sites and a distinct pattern was found in transect
+      three. We developed the Structural Ecological Quality Index, which considers the 
+      social position of various species as well as their ecological importance, to
+      reflect alterations in structural parameters. Abundance was concentrated in the
+      10-20 m strata (10-20 cm diameter class), which showed the presence of
+      disturbance indicator species and a low ecological value. This indicated the real
+      value of the historical succession of the forest, thus we recommend carrying out 
+      a restoration of this important reservoir.
+CI  - (c) 2020 Published by Elsevier Ltd.
+FAU - Garcia-Quintana, Yudel
+AU  - Garcia-Quintana Y
+AD  - Facultad de Ciencias de la Tierra, Universidad Estatal Amazonica (UEA), Via Tena 
+      Km 2 (1/2), Puyo, Pastaza, Ecuador.
+FAU - Arteaga-Crespo, Yasiel
+AU  - Arteaga-Crespo Y
+AD  - Facultad de Ciencias de la Tierra, Universidad Estatal Amazonica (UEA), Via Tena 
+      Km 2 (1/2), Puyo, Pastaza, Ecuador.
+FAU - Torres-Navarrete, Bolier
+AU  - Torres-Navarrete B
+AD  - Facultad de Ciencias de la Tierra, Universidad Estatal Amazonica (UEA), Via Tena 
+      Km 2 (1/2), Puyo, Pastaza, Ecuador.
+FAU - Robles-Morillo, Marco
+AU  - Robles-Morillo M
+AD  - ONG, The Nature Conservancy, Quito, Ecuador.
+FAU - Bravo-Medina, Carlos
+AU  - Bravo-Medina C
+AD  - Facultad de Ciencias de la Tierra, Universidad Estatal Amazonica (UEA), Via Tena 
+      Km 2 (1/2), Puyo, Pastaza, Ecuador.
+FAU - Sarmiento-Rosero, Alexandra
+AU  - Sarmiento-Rosero A
+AD  - Ministerio de Agricultura y Ganaderia (MAG), Pastaza, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20200730
+PL  - England
+TA  - Heliyon
+JT  - Heliyon
+JID - 101672560
+PMC - PMC7394865
+OTO - NOTNLM
+OT  - Agroforestry
+OT  - Amazonian forests
+OT  - Applied ecology
+OT  - Ecological restoration
+OT  - Ecology
+OT  - Environmental science
+OT  - Flora
+OT  - Forestry
+OT  - Heterogeneity patterns
+OT  - Micro-basin
+OT  - Species of ecological importance
+OT  - Structural ecological quality index
+EDAT- 2020/08/11 06:00
+MHDA- 2020/08/11 06:01
+CRDT- 2020/08/11 06:00
+PHST- 2020/03/31 00:00 [received]
+PHST- 2020/05/22 00:00 [revised]
+PHST- 2020/07/28 00:00 [accepted]
+PHST- 2020/08/11 06:00 [entrez]
+PHST- 2020/08/11 06:00 [pubmed]
+PHST- 2020/08/11 06:01 [medline]
+AID - 10.1016/j.heliyon.2020.e04592 [doi]
+AID - S2405-8440(20)31436-5 [pii]
+AID - e04592 [pii]
+PST - epublish
+SO  - Heliyon. 2020 Jul 30;6(7):e04592. doi: 10.1016/j.heliyon.2020.e04592. eCollection
+      2020 Jul.
+
+PMID- 32560533
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20200623
+LR  - 20200723
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 20
+IP  - 12
+DP  - 2020 Jun 17
+TI  - Vibration-Response-Only Structural Health Monitoring for Offshore Wind Turbine
+      Jacket Foundations via Convolutional Neural Networks.
+LID - E3429 [pii]
+LID - 10.3390/s20123429 [doi]
+AB  - This work deals with structural health monitoring for jacket-type foundations of 
+      offshore wind turbines. In particular, a vibration-response-only methodology is
+      proposed based on accelerometer data and deep convolutional neural networks. The 
+      main contribution of this article is twofold: (i) a signal-to-image conversion of
+      the accelerometer data into gray scale multichannel images with as many channels 
+      as the number of sensors in the condition monitoring system, and (ii) a data
+      augmentation strategy to diminish the test set error of the deep convolutional
+      neural network used to classify the images. The performance of the proposed
+      method is analyzed using real measurements from a steel jacket-type offshore wind
+      turbine laboratory experiment undergoing different damage scenarios. The results,
+      with a classification accuracy over 99%, demonstrate that the stated methodology 
+      is promising to be utilized for damage detection and identification in
+      jacket-type support structures.
+FAU - Puruncajas, Bryan
+AU  - Puruncajas B
+AUID- ORCID: 0000-0002-2194-6853
+AD  - Control, Modeling, Identification and Applications (CoDAlab), Department of
+      Mathematics, Escola d'Enginyeria de Barcelona Est (EEBE), Universitat Politecnica
+      de Catalunya (UPC), Campus Diagonal-Besos (CDB), Eduard Maristany, 16, 08019
+      Barcelona, Spain.
+AD  - Mechatronics Engineering, Faculty of Mechanical Engineering and Production
+      Science (FIMCP), Escuela Superior Politecnica del Litoral (ESPOL), Guayaquil
+      09-01-5863, Ecuador.
+FAU - Vidal, Yolanda
+AU  - Vidal Y
+AUID- ORCID: 0000-0003-4964-6948
+AD  - Control, Modeling, Identification and Applications (CoDAlab), Department of
+      Mathematics, Escola d'Enginyeria de Barcelona Est (EEBE), Universitat Politecnica
+      de Catalunya (UPC), Campus Diagonal-Besos (CDB), Eduard Maristany, 16, 08019
+      Barcelona, Spain.
+FAU - Tutiven, Christian
+AU  - Tutiven C
+AUID- ORCID: 0000-0001-6322-4608
+AD  - Mechatronics Engineering, Faculty of Mechanical Engineering and Production
+      Science (FIMCP), Escuela Superior Politecnica del Litoral (ESPOL), Guayaquil
+      09-01-5863, Ecuador.
+LA  - eng
+GR  - DPI2017-82930-C2-1-R/Ministerio de Economia, Industria y Competitividad
+GR  - 2017 SGR 388/Generalitat de Catalunya
+PT  - Journal Article
+DEP - 20200617
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+PMC - PMC7349094
+OTO - NOTNLM
+OT  - convolutional neural network
+OT  - damage detection
+OT  - damage identification
+OT  - jacket
+OT  - offshore wind turbine foundation
+OT  - signal-to-image conversion
+OT  - structural health monitoring
+EDAT- 2020/06/21 06:00
+MHDA- 2020/06/21 06:01
+CRDT- 2020/06/21 06:00
+PHST- 2020/05/25 00:00 [received]
+PHST- 2020/06/15 00:00 [revised]
+PHST- 2020/06/16 00:00 [accepted]
+PHST- 2020/06/21 06:00 [entrez]
+PHST- 2020/06/21 06:00 [pubmed]
+PHST- 2020/06/21 06:01 [medline]
+AID - s20123429 [pii]
+AID - 10.3390/s20123429 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2020 Jun 17;20(12). pii: s20123429. doi: 10.3390/s20123429.
+
+PMID- 31707656
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201229
+LR  - 20201229
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 2077
+DP  - 2020
+TI  - Structural and Functional Characterization of Autophosphorylation in Bacterial
+      Histidine Kinases.
+PG  - 121-140
+LID - 10.1007/978-1-4939-9884-5_9 [doi]
+AB  - Autophosphorylation of histidine kinases (HK) is the first step for signal
+      transduction in bacterial two-component signalling systems. As HKs dimerize, the 
+      His residue is phosphorylated in cis or trans depending on whether the ATP
+      molecule used in the reaction is bound to the same or the neighboring subunit,
+      respectively. The cis or trans autophosphorylation results from an alternative
+      directionality in the connection between helices alpha1 and alpha2 in the HK DHp 
+      domain, in such a way that alpha2 could be oriented almost 90 degrees
+      counterclockwise or clockwise with respect to alpha1. Sequence and length
+      variability of this connection appears to lie behind the different directionality
+      and is implicated in partner recognition with the response regulator (RR),
+      highlighting its importance in signal transduction. Despite this mechanistic
+      difference, HK autophosphorylation appears to be universal, involving conserved
+      residues neighboring the phosphoacceptor His residue. Herein, we describe a
+      simple protocol to determine both autophosphorylation directionality of HKs and
+      the roles of the catalytic residues in these protein kinases.
+FAU - Miguel-Romero, Laura
+AU  - Miguel-Romero L
+AD  - Instituto de Biomedicina de Valencia, Consejo Superior de Investigaciones
+      Cientificas (IBV-CSIC), Valencia, Spain.
+FAU - Mideros-Mora, Cristina
+AU  - Mideros-Mora C
+AD  - Instituto de Biomedicina de Valencia, Consejo Superior de Investigaciones
+      Cientificas (IBV-CSIC), Valencia, Spain.
+AD  - Facultad de Ciencias de la Salud Eugenio Espejo, Universidad Tecnologica
+      Equinoccial, Quito, Ecuador.
+FAU - Marina, Alberto
+AU  - Marina A
+AD  - Instituto de Biomedicina de Valencia, Consejo Superior de Investigaciones
+      Cientificas (IBV-CSIC), Valencia, Spain. amarina@ibv.csic.es.
+AD  - CIBER de Enfermedades Raras (CIBERER-ISCIII), Madrid, Spain. amarina@ibv.csic.es.
+FAU - Casino, Patricia
+AU  - Casino P
+AD  - Departament de Bioquimica i Biologia Molecular, Universitat de Valencia,
+      Burjassot, Spain. patricia.casino@uv.es.
+AD  - Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI
+      BIOTECMED), Universitat de Valencia, Burjassot, Spain. patricia.casino@uv.es.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (Bacterial Proteins)
+RN  - 4QD397987E (Histidine)
+RN  - EC 2.7.13.1 (Histidine Kinase)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Bacterial Proteins/*chemistry/genetics/*metabolism
+MH  - Binding Sites
+MH  - Catalytic Domain
+MH  - Cloning, Molecular
+MH  - Histidine/chemistry/metabolism
+MH  - Histidine Kinase/*chemistry/genetics/*metabolism
+MH  - *Models, Molecular
+MH  - Phosphorylation
+MH  - Protein Binding
+MH  - *Protein Conformation
+MH  - Protein Multimerization
+MH  - Structure-Activity Relationship
+OTO - NOTNLM
+OT  - *Cis-trans autophosphorylation
+OT  - *Heterodimer production and purification
+OT  - *Histidine kinases
+OT  - *Signal transduction
+OT  - *Two-component systems
+OT  - *X-ray crystallography
+EDAT- 2019/11/11 06:00
+MHDA- 2020/12/30 06:00
+CRDT- 2019/11/11 06:00
+PHST- 2019/11/11 06:00 [entrez]
+PHST- 2019/11/11 06:00 [pubmed]
+PHST- 2020/12/30 06:00 [medline]
+AID - 10.1007/978-1-4939-9884-5_9 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2020;2077:121-140. doi: 10.1007/978-1-4939-9884-5_9.
+
+PMID- 31306939
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191119
+LR  - 20191119
+IS  - 1879-2448 (Electronic)
+IS  - 0043-1354 (Linking)
+VI  - 163
+DP  - 2019 Oct 15
+TI  - Reactivity of chromophoric dissolved organic matter (CDOM) to sulfate radicals:
+      Reaction kinetics and structural transformation.
+PG  - 114846
+LID - S0043-1354(19)30612-8 [pii]
+LID - 10.1016/j.watres.2019.07.013 [doi]
+AB  - Sulfate radical (SO4(*-)) has been extensively studied as a promising alternative
+      in advanced oxidation processes (AOPs) for water treatment. However, little is
+      known about its reactivity to the ubiquitous dissolved organic matter (DOM) in
+      water bodies. SO4(*-) would selectively react with electron rich moieties in DOM,
+      known as chromophoric DOM (CDOM), due to its light absorbing property. In this
+      study, the reactivity and typical structural transformation of CDOM with SO4(*-) 
+      was investigated. Four well characterized hydrophobic DOM fractions extracted
+      from different surface water sources were selected as model CDOM. SO4(*-) was
+      produced through the activation of peroxymonosulfate (PMS) by Co(II) ions at pH 8
+      in borate buffer. The reactivity of CDOM was studied based on the decrease in its
+      ultraviolet absorbance at 254nm (UVA254) as a function of time. The reactivity of
+      CDOM changed with time where fast and slow reacting CDOMs (i.e., CDOMfast and
+      CDOMslow) were clearly distinguished. A second-order rate constant of CDOMfast
+      with SO4(*-) was calculated by plotting UVA254 decrease versus PMS exposure;
+      where a Rct value (i.e., ratio of sulfate radical exposure to PMS exposure) was
+      calculated using pCBA as a probe compound. The transformation of CDOM was studied
+      through the analysis of the changes in UVA254, electron donating capacity,
+      fluorescence intensity, and total organic carbon. A transformation pathway
+      leading to a significant carbon removal was proposed. This new knowledge on the
+      kinetics and transformation of CDOM would ultimately assist in the development
+      and operation of SO4(*-)-based water treatment processes.
+CI  - Copyright (c) 2019 Elsevier Ltd. All rights reserved.
+FAU - Zhang, Suona
+AU  - Zhang S
+AD  - Curtin Water Quality Research Centre, Department of Chemistry, Curtin University,
+      Australia.
+FAU - Rouge, Valentin
+AU  - Rouge V
+AD  - Curtin Water Quality Research Centre, Department of Chemistry, Curtin University,
+      Australia.
+FAU - Gutierrez, Leonardo
+AU  - Gutierrez L
+AD  - Facultad del Mar y Medio Ambiente, Universidad del Pacifico, Ecuador; Institut de
+      Chimie des Milieux et des Materiaux IC2MP UMR 7285 CNRS, Universite de Poitiers, 
+      France.
+FAU - Croue, Jean-Philippe
+AU  - Croue JP
+AD  - Curtin Water Quality Research Centre, Department of Chemistry, Curtin University,
+      Australia; Institut de Chimie des Milieux et des Materiaux IC2MP UMR 7285 CNRS,
+      Universite de Poitiers, France. Electronic address:
+      jean.philippe.croue@univ-poitiers.fr.
+LA  - eng
+PT  - Journal Article
+DEP - 20190707
+PL  - England
+TA  - Water Res
+JT  - Water research
+JID - 0105072
+RN  - 0 (Sulfates)
+RN  - 0 (sulfate radical)
+SB  - IM
+MH  - Fresh Water
+MH  - Kinetics
+MH  - *Sulfates
+MH  - *Water Purification
+OTO - NOTNLM
+OT  - CDOM
+OT  - Carbon removal
+OT  - Reaction kinetics
+OT  - Structural transformation
+OT  - Sulfate radical
+EDAT- 2019/07/16 06:00
+MHDA- 2019/11/20 06:00
+CRDT- 2019/07/16 06:00
+PHST- 2019/04/08 00:00 [received]
+PHST- 2019/07/03 00:00 [revised]
+PHST- 2019/07/06 00:00 [accepted]
+PHST- 2019/07/16 06:00 [pubmed]
+PHST- 2019/11/20 06:00 [medline]
+PHST- 2019/07/16 06:00 [entrez]
+AID - S0043-1354(19)30612-8 [pii]
+AID - 10.1016/j.watres.2019.07.013 [doi]
+PST - ppublish
+SO  - Water Res. 2019 Oct 15;163:114846. doi: 10.1016/j.watres.2019.07.013. Epub 2019
+      Jul 7.
+
+PMID- 30603067
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 2042-8898 (Print)
+IS  - 2042-8898 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2019 Feb 6
+TI  - Phenotypic variation in Heliconius erato crosses shows that iridescent structural
+      colour is sex-linked and controlled by multiple genes.
+PG  - 20180047
+LID - 10.1098/rsfs.2018.0047 [doi]
+AB  - Bright, highly reflective iridescent colours can be seen across nature and are
+      produced by the scattering of light from nanostructures. Heliconius butterflies
+      have been widely studied for their diversity and mimicry of wing colour patterns.
+      Despite iridescence evolving multiple times in this genus, little is known about 
+      the genetic basis of the colour and the development of the structures which
+      produce it. Heliconius erato can be found across Central and South America, but
+      only races found in western Ecuador and Colombia have developed blue iridescent
+      colour. Here, we use crosses between iridescent and non-iridescent races of H.
+      erato to study phenotypic variation in the resulting F2 generation. Using
+      measurements of blue colour from photographs, we find that iridescent structural 
+      colour is a quantitative trait controlled by multiple genes, with strong evidence
+      for loci on the Z sex chromosome. Iridescence is not linked to the Mendelian
+      colour pattern locus that also segregates in these crosses (controlled by the
+      gene cortex). Small-angle X-ray scattering data show that spacing between
+      longitudinal ridges on the scales, which affects the intensity of the blue
+      reflectance, also varies quantitatively in F2 crosses.
+FAU - Brien, Melanie N
+AU  - Brien MN
+AUID- ORCID: 0000-0002-3089-4776
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Enciso-Romero, Juan
+AU  - Enciso-Romero J
+AUID- ORCID: 0000-0002-4143-3705
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+AD  - Biology Program, Faculty of Natural Sciences and Mathematics, Universidad del
+      Rosario, Bogota, Colombia.
+FAU - Parnell, Andrew J
+AU  - Parnell AJ
+AUID- ORCID: 0000-0001-8606-8644
+AD  - Department of Physics and Astronomy, University of Sheffield, Hicks Building,
+      Hounsfield Road, Sheffield S3 7RH, UK.
+FAU - Salazar, Patricio A
+AU  - Salazar PA
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+AD  - Centro de Investigacion en Biodiversidad y Cambio Climatico (BioCamb),
+      Universidad Tecnologica Indoamerica, Quito, Ecuador.
+FAU - Morochz, Carlos
+AU  - Morochz C
+AD  - Mashpi Reserve, Ecuador.
+FAU - Chala, Darwin
+AU  - Chala D
+AD  - Mashpi Reserve, Ecuador.
+FAU - Bainbridge, Hannah E
+AU  - Bainbridge HE
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Zinn, Thomas
+AU  - Zinn T
+AD  - ESRF - The European Synchrotron, 38043 Grenoble Cedex 9, France.
+FAU - Curran, Emma V
+AU  - Curran EV
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+FAU - Nadeau, Nicola J
+AU  - Nadeau NJ
+AUID- ORCID: 0000-0002-9319-921X
+AD  - Department of Animal and Plant Sciences, University of Sheffield, Alfred Denny
+      Building, Western Bank, Sheffield S10 2TN, UK.
+LA  - eng
+SI  - figshare/10.6084/m9.figshare.c.4302737
+PT  - Journal Article
+DEP - 20181214
+PL  - England
+TA  - Interface Focus
+JT  - Interface focus
+JID - 101531990
+PMC - PMC6304015
+OTO - NOTNLM
+OT  - Heliconius
+OT  - butterflies
+OT  - evolution
+OT  - iridescence
+OT  - quantitative genetics
+OT  - structural colour
+COIS- We declare we have no competing interests.
+EDAT- 2019/01/04 06:00
+MHDA- 2019/01/04 06:01
+CRDT- 2019/01/04 06:00
+PHST- 2018/10/29 00:00 [accepted]
+PHST- 2019/01/04 06:00 [entrez]
+PHST- 2019/01/04 06:00 [pubmed]
+PHST- 2019/01/04 06:01 [medline]
+AID - 10.1098/rsfs.2018.0047 [doi]
+AID - rsfs20180047 [pii]
+PST - ppublish
+SO  - Interface Focus. 2019 Feb 6;9(1):20180047. doi: 10.1098/rsfs.2018.0047. Epub 2018
+      Dec 14.
+
+PMID- 30569240
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190923
+LR  - 20200225
+IS  - 1432-1939 (Electronic)
+IS  - 0029-8549 (Linking)
+VI  - 189
+IP  - 2
+DP  - 2019 Feb
+TI  - Direct and indirect effects of plant and frugivore diversity on structural and
+      functional components of fruit removal by birds.
+PG  - 435-445
+LID - 10.1007/s00442-018-4324-y [doi]
+AB  - Seed dispersal is an important ecosystem function, but it is contentious how
+      structural and functional diversity of plant and bird communities are associated 
+      with seed-dispersal functions. We used structural equation models to test how
+      structural (i.e., abundance, species richness) and functional diversity (i.e.,
+      functional dispersion and community-weighted means of functional traits) of
+      fruiting plants and frugivorous birds directly and indirectly influence the
+      respective components of fruit removal. We recorded plant and bird diversity in
+      point counts and observed plant-frugivore interactions in a tropical mountain
+      forest in Ecuador. We also recorded plant and bird morphological traits to
+      calculate measures of functional diversity. We found that fruit abundance had a
+      positive direct effect on bird abundance, which directly and indirectly mediated 
+      the abundance of removed fruits. Plant and bird species richness were only
+      directly related to the richness of the removed fruits. Functional dispersion of 
+      the plant community was positively associated to that of the bird community and
+      to that of the removed fruits. Consistently, we found positive associations
+      between community-weighted means of plant and bird traits and between
+      community-weighted means of plant traits and that of plants with removed fruits. 
+      In contrast, community-weighted means of the bird community were unrelated to
+      that of the removed fruits. Overall, our results suggest that plant abundance
+      directly and indirectly influences fruit removal, likely because of avian fruit
+      tracking. However, we did not find strong links between the functional diversity 
+      of the frugivore community and removed fruits, suggesting that other factors in
+      addition to plant-animal trait matching might be important for the functional
+      diversity of removed fruits. Our findings highlight the importance of frugivore
+      abundance for maintaining seed dispersal by animals in tropical forests.
+FAU - Quitian, Marta
+AU  - Quitian M
+AUID- ORCID: http://orcid.org/0000-0003-4413-4804
+AD  - Senckenberg Biodiversity and Climate Research Centre Frankfurt, Frankfurt am
+      Main, Germany. marta.quitian@protonmail.com.
+AD  - Goethe University Frankfurt, Frankfurt am Main, Germany.
+      marta.quitian@protonmail.com.
+FAU - Santillan, Vinicio
+AU  - Santillan V
+AD  - Senckenberg Biodiversity and Climate Research Centre Frankfurt, Frankfurt am
+      Main, Germany.
+AD  - Goethe University Frankfurt, Frankfurt am Main, Germany.
+FAU - Espinosa, Carlos Ivan
+AU  - Espinosa CI
+AD  - Universidad Tecnica Particular de Loja (UTPL), Loja, Ecuador.
+FAU - Homeier, Jurgen
+AU  - Homeier J
+AD  - Plant Ecology and Ecosystems Research, University of Gottingen, Gottingen,
+      Germany.
+FAU - Bohning-Gaese, Katrin
+AU  - Bohning-Gaese K
+AD  - Senckenberg Biodiversity and Climate Research Centre Frankfurt, Frankfurt am
+      Main, Germany.
+AD  - Goethe University Frankfurt, Frankfurt am Main, Germany.
+FAU - Schleuning, Matthias
+AU  - Schleuning M
+AUID- ORCID: http://orcid.org/0000-0001-9426-045X
+AD  - Senckenberg Biodiversity and Climate Research Centre Frankfurt, Frankfurt am
+      Main, Germany.
+FAU - Neuschulz, Eike Lena
+AU  - Neuschulz EL
+AUID- ORCID: http://orcid.org/0000-0001-7526-2580
+AD  - Senckenberg Biodiversity and Climate Research Centre Frankfurt, Frankfurt am
+      Main, Germany.
+LA  - eng
+GR  - BO 1221/20-1/Deutsche Forschungsgemeinschaft
+PT  - Journal Article
+DEP - 20181220
+PL  - Germany
+TA  - Oecologia
+JT  - Oecologia
+JID - 0150372
+SB  - IM
+MH  - Animals
+MH  - Birds
+MH  - Ecosystem
+MH  - Ecuador
+MH  - Feeding Behavior
+MH  - *Fruit
+MH  - *Seed Dispersal
+OTO - NOTNLM
+OT  - Functional trait diversity
+OT  - Plant-frugivore interaction networks
+OT  - Seed dispersal
+OT  - Species identity
+OT  - Structural equation models
+OT  - Tropical montane forest
+EDAT- 2018/12/21 06:00
+MHDA- 2019/09/24 06:00
+CRDT- 2018/12/21 06:00
+PHST- 2018/02/07 00:00 [received]
+PHST- 2018/12/08 00:00 [accepted]
+PHST- 2018/12/21 06:00 [pubmed]
+PHST- 2019/09/24 06:00 [medline]
+PHST- 2018/12/21 06:00 [entrez]
+AID - 10.1007/s00442-018-4324-y [doi]
+AID - 10.1007/s00442-018-4324-y [pii]
+PST - ppublish
+SO  - Oecologia. 2019 Feb;189(2):435-445. doi: 10.1007/s00442-018-4324-y. Epub 2018 Dec
+      20.
+
+PMID- 30101787
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181231
+LR  - 20201215
+IS  - 0273-1223 (Print)
+IS  - 0273-1223 (Linking)
+VI  - 78
+IP  - 1-2
+DP  - 2018 Aug
+TI  - Exploring the influence of meteorological conditions on the performance of a
+      waste stabilization pond at high altitude with structural equation modeling.
+PG  - 37-48
+LID - 10.2166/wst.2018.254 [doi]
+AB  - Algal photosynthesis plays a key role in the removal mechanisms of waste
+      stabilization ponds (WSPs), which is indicated in the variations of three
+      parameters, dissolved oxygen, pH, and chlorophyll a. These variations can be
+      considerably affected by extreme climatic conditions at high altitude. To
+      investigate these effects, three sampling campaigns were conducted in a
+      high-altitude WSP in Cuenca (Ecuador). From the collected data, the first
+      application of structure equation modeling (SEM) on a pond system was fitted to
+      analyze the influence of high-altitude characteristics on pond performance,
+      especially on the three indicators. Noticeably, air temperature appeared as the
+      highest influencing factors as low temperature at high altitude can greatly
+      decrease the growth rate of microorganisms. Strong wind and large diurnal
+      variations of temperature, 7-20 degrees C, enhanced flow efficiency by improving 
+      mixing inside the ponds. Intense solar radiation brought both advantages and
+      disadvantages as it boosted oxygen level during the day but promoted algal
+      overgrowth causing oxygen depletion during the night. From these findings, the
+      authors proposed insightful recommendations for future design, monitoring, and
+      operation of high-altitude WSPs. Moreover, we also recommended SEM to pond
+      engineers as an effective tool for better simulation of such complex systems like
+      WSPs.
+FAU - Ho, Long T
+AU  - Ho LT
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+FAU - Pham, Duy T
+AU  - Pham DT
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+FAU - Van Echelpoel, Wout
+AU  - Van Echelpoel W
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+FAU - Alvarado, Andres
+AU  - Alvarado A
+AD  - Departamento de Recursos Hidricos y Ciencias Ambientales, Universidad de Cuenca, 
+      Av. 12 de Abril s/n, Cuenca, Ecuador and Facultad de Ingenieria, Universidad de
+      Cuenca, Av. 12 de Abril s/n, Cuenca, Ecuador.
+FAU - Espinoza-Palacios, Juan E
+AU  - Espinoza-Palacios JE
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+FAU - Arevalo-Durazno, Maria B
+AU  - Arevalo-Durazno MB
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+FAU - Goethals, Peter L M
+AU  - Goethals PLM
+AD  - Department of Animal Sciences and Aquatic Ecology, Ghent University, Coupure
+      Links 653, Ghent 9000, Belgium E-mail: long.tuanho@ugent.be.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Water Sci Technol
+JT  - Water science and technology : a journal of the International Association on
+      Water Pollution Research
+JID - 9879497
+RN  - S88TT14065 (Oxygen)
+SB  - IM
+MH  - Altitude
+MH  - Ecuador
+MH  - Models, Biological
+MH  - Oxygen/metabolism
+MH  - *Ponds
+MH  - Solar Energy
+MH  - Temperature
+MH  - Waste Disposal, Fluid/*statistics & numerical data
+MH  - Water Purification/*statistics & numerical data
+MH  - *Weather
+EDAT- 2018/08/14 06:00
+MHDA- 2019/01/01 06:00
+CRDT- 2018/08/14 06:00
+PHST- 2018/08/14 06:00 [entrez]
+PHST- 2018/08/14 06:00 [pubmed]
+PHST- 2019/01/01 06:00 [medline]
+AID - 10.2166/wst.2018.254 [doi]
+PST - ppublish
+SO  - Water Sci Technol. 2018 Aug;78(1-2):37-48. doi: 10.2166/wst.2018.254.
+
+PMID- 29694044
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20180622
+LR  - 20180622
+IS  - 1520-6904 (Electronic)
+IS  - 0022-3263 (Linking)
+VI  - 83
+IP  - 10
+DP  - 2018 May 18
+TI  - 15-Hydroxygermacranolides as Sources of Structural Diversity: Synthesis of
+      Sesquiterpene Lactones by Cyclization and Rearrangement Reactions. Experimental
+      and DFT Study.
+PG  - 5480-5495
+LID - 10.1021/acs.joc.8b00407 [doi]
+AB  - A study on the electrophile-induced rearrangement of two
+      15-hydroxygermacranolides, salonitenolide and artemisiifolin, was carried out.
+      These compounds underwent electrophilic intramolecular cyclizations or
+      acid-mediated rearrangements to give sesquiterpene lactones with different
+      skeletons such as eudesmanolides, guaianolides, amorphanolides, or other
+      germacranolides. The cyclization that gives guaianolides can be considered a
+      biomimetic route to this type of sesquiterpene lactones. The use of acetone as a 
+      solvent changes the reactivity of the two starting germacranolides to the acid
+      catalysts, with a 4,15-diol acetonide being the main product obtained. The
+      delta-amorphenolide obtained by intramolecular cyclization of this acetonide is a
+      valuable intermediate for accessing the antimalarials artemisinin and its
+      derivatives. Mechanistic proposals for the transformations are raised, and to
+      provide support them, quantum chemical calculations [DFT B3LYP/6-31+G(d,p) level]
+      were undertaken.
+FAU - Alvarez-Calero, Jose Maria
+AU  - Alvarez-Calero JM
+AD  - Departamento de Quimica Organica, Facultad de Ciencias , Universidad de Cadiz ,
+      Puerto Real, Cadiz 11510 , Spain.
+FAU - Ruiz, Enrique
+AU  - Ruiz E
+AD  - Departamento de Quimica, Instituto de Ciencias Basicas , Universidad Tecnica de
+      Manabi (UTM) , Avenida Urbina y Che Guevara , Portoviejo , Manabi 130103 ,
+      Ecuador.
+AD  - Laboratorio de Sintesis Organica, Facultad de Quimica , Universidad de La Habana 
+      , La Habana 10400 , Cuba.
+FAU - Lopez-Perez, Jose Luis
+AU  - Lopez-Perez JL
+AD  - Departamento de Farmacologia, Facultad de Medicina , Universidad de Panama ,
+      Ciudad de Panama 3366 , Republica de Panama.
+AD  - Departamento de Ciencias Farmaceuticas, IBSAL-CIETUS , Universidad de Salamanca ,
+      Avda. Campo Charro s/n , Salamanca 37007 , Spain.
+FAU - Jaraiz, Martin
+AU  - Jaraiz M
+AUID- ORCID: 0000-0001-6688-3158
+AD  - Departamento de Electronica , Universidad de Valladolid , Paseo Belen 15 ,
+      Valladolid 47011 , Spain.
+FAU - Rubio, Jose E
+AU  - Rubio JE
+AD  - Departamento de Electronica , Universidad de Valladolid , Paseo Belen 15 ,
+      Valladolid 47011 , Spain.
+FAU - Jorge, Zacarias D
+AU  - Jorge ZD
+AD  - Departamento de Quimica Organica, Facultad de Ciencias , Universidad de Cadiz ,
+      Puerto Real, Cadiz 11510 , Spain.
+FAU - Suarez, Margarita
+AU  - Suarez M
+AD  - Laboratorio de Sintesis Organica, Facultad de Quimica , Universidad de La Habana 
+      , La Habana 10400 , Cuba.
+FAU - Massanet, Guillermo M
+AU  - Massanet GM
+AUID- ORCID: 0000-0002-7463-5696
+AD  - Departamento de Quimica Organica, Facultad de Ciencias , Universidad de Cadiz ,
+      Puerto Real, Cadiz 11510 , Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20180503
+PL  - United States
+TA  - J Org Chem
+JT  - The Journal of organic chemistry
+JID - 2985193R
+EDAT- 2018/04/26 06:00
+MHDA- 2018/04/26 06:01
+CRDT- 2018/04/26 06:00
+PHST- 2018/04/26 06:00 [pubmed]
+PHST- 2018/04/26 06:01 [medline]
+PHST- 2018/04/26 06:00 [entrez]
+AID - 10.1021/acs.joc.8b00407 [doi]
+PST - ppublish
+SO  - J Org Chem. 2018 May 18;83(10):5480-5495. doi: 10.1021/acs.joc.8b00407. Epub 2018
+      May 3.
+
+PMID- 28185673
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20191120
+IS  - 1879-3150 (Electronic)
+IS  - 0041-0101 (Linking)
+VI  - 128
+DP  - 2017 Mar 15
+TI  - Corrigendum to "Exploring and understanding the functional role, and biochemical 
+      and structural characteristics of an acidic phospholipase A2, AplTx-I, purified
+      from Agkistrodon piscivorus leucostoma snake venom" [Toxicon 127 (2017) 22-36].
+PG  - 61
+LID - S0041-0101(17)30038-7 [pii]
+LID - 10.1016/j.toxicon.2017.01.021 [doi]
+FAU - Resende, L M
+AU  - Resende LM
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - Almeida, J R
+AU  - Almeida JR
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador;
+      International Network of Ecuadorian Snakes Venom Studies (RIEVSE), Ecuador.
+      Electronic address: rafael.dealmeida@ikiam.edu.ec.
+FAU - Ramos, R S
+AU  - Ramos RS
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Collaco, R C O
+AU  - Collaco RC
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Simioni, L R
+AU  - Simioni LR
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Ramirez, D
+AU  - Ramirez D
+AD  - Centro de Bioinformatica y Simulacion Molecular (CBSM), Universidad de Talca, 2
+      Norte 685, Casilla 721, Talca, Chile.
+FAU - Gonzalez, W
+AU  - Gonzalez W
+AD  - Centro de Bioinformatica y Simulacion Molecular (CBSM), Universidad de Talca, 2
+      Norte 685, Casilla 721, Talca, Chile; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Soares, A M
+AU  - Soares AM
+AD  - Oswaldo Cruz Foundation (FIOCRUZ), CEBio, Fiocruz Rondonia and Federal University
+      of Rondonia, Porto Velho, RO, Brazil; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Calderon, L A
+AU  - Calderon LA
+AD  - Oswaldo Cruz Foundation (FIOCRUZ), CEBio, Fiocruz Rondonia and Federal University
+      of Rondonia, Porto Velho, RO, Brazil; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Marangoni, S
+AU  - Marangoni S
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - da Silva, S L
+AU  - da Silva SL
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador;
+      International Network of Ecuadorian Snakes Venom Studies (RIEVSE), Ecuador.
+LA  - eng
+PT  - Journal Article
+PT  - Published Erratum
+DEP - 20170207
+PL  - England
+TA  - Toxicon
+JT  - Toxicon : official journal of the International Society on Toxinology
+JID - 1307333
+EFR - Toxicon. 2017 Mar 1;127:22-36. PMID: 28063838
+EDAT- 2017/02/12 06:00
+MHDA- 2017/02/12 06:01
+CRDT- 2017/02/11 06:00
+PHST- 2017/02/12 06:00 [pubmed]
+PHST- 2017/02/12 06:01 [medline]
+PHST- 2017/02/11 06:00 [entrez]
+AID - S0041-0101(17)30038-7 [pii]
+AID - 10.1016/j.toxicon.2017.01.021 [doi]
+PST - ppublish
+SO  - Toxicon. 2017 Mar 15;128:61. doi: 10.1016/j.toxicon.2017.01.021. Epub 2017 Feb 7.
+
+PMID- 28063838
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170926
+LR  - 20170926
+IS  - 1879-3150 (Electronic)
+IS  - 0041-0101 (Linking)
+VI  - 127
+DP  - 2017 Mar 1
+TI  - Exploring and understanding the functional role, and biochemical and structural
+      characteristics of an acidic phospholipase A2, AplTx-I, purified from Agkistrodon
+      piscivorus leucostoma snake venom.
+PG  - 22-36
+LID - S0041-0101(17)30003-X [pii]
+LID - 10.1016/j.toxicon.2017.01.002 [doi]
+AB  - Phospholipases A2 (PLA2s) constitute a class of extensively studied toxins,
+      isolated from snake venoms. Basic PLA2 isoforms mediate various toxicological
+      effects, while the acidic isoforms generally have higher enzymatic activities,
+      but do not promote evident toxic effects. The functions of these acidic isoforms 
+      in snake venoms are still not completely understood and more studies are needed
+      to characterize the biological functions and diversification of acidic toxins in 
+      order to justify their abundant presence in these secretions. Recently, Lomonte
+      and collaborators demonstrated, in a proteomic and toxicological study, high
+      concentrations of PLA2s in the venom of Agkistrodon piscivorus leucostoma. We
+      have, herein, purified and characterized an acidic PLA2 from this snake venom,
+      denominated AplTx-I, in order to better understand its biochemical and structural
+      characteristics, as well as its biological effects. AplTx-I was purified using
+      two chromatographic steps, in association with enzymatic and biological assays.
+      The acidic toxin was found to be one of the most abundant proteins in the venom
+      of A. p. leucostoma; the protein was monomeric with a molecular mass of 13,885.8 
+      Da, as identified by mass spectrometry ESI-TOF and electrophoresis. The toxin has
+      similar primary and tridimensional structures to those of other acidic PLA2s, a
+      theoretical and experimental isoelectric point of approximately 5.12, and a
+      calcium-dependent enzyme activity of 25.8985 nM/min/mg, with maximum values at 37
+      degrees C and pH 8.0. Despite its high enzymatic activity on synthetic substrate,
+      AplTx-I did not induce high or significant myotoxic, coagulant, anticoagulant,
+      edema, neuromuscular toxicity in mouse phrenic nerve-diaphragm preparations or
+      antibacterial activities. Interestingly, AplTx-I triggered a high and selective
+      neuromuscular toxicity in chick biventer cervicis preparations. These findings
+      are relevant to provide a deeper understanding of the pharmacology, role and
+      diversification of acidic phospholipase A2 isoforms in snake venoms.
+CI  - Copyright (c) 2017 Elsevier Ltd. All rights reserved.
+FAU - Resende, L M
+AU  - Resende LM
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - Almeida, J R
+AU  - Almeida JR
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador;
+      International Network of Ecuadorian Snakes Venom Studies (RIEVSE), Ecuador.
+      Electronic address: rafael.dealmeida@ikiam.edu.ec.
+FAU - Schezaro-Ramos, R
+AU  - Schezaro-Ramos R
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Collaco, R C O
+AU  - Collaco RC
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Simioni, L R
+AU  - Simioni LR
+AD  - Department of Pharmacology, Faculty of Medical Sciences, State University of
+      Campinas (UNICAMP), Campinas, SP, Brazil.
+FAU - Ramirez, D
+AU  - Ramirez D
+AD  - Centro de Bioinformatica y Simulacion Molecular (CBSM), Universidad de Talca, 2
+      Norte 685, Casilla 721, Talca, Chile.
+FAU - Gonzalez, W
+AU  - Gonzalez W
+AD  - Centro de Bioinformatica y Simulacion Molecular (CBSM), Universidad de Talca, 2
+      Norte 685, Casilla 721, Talca, Chile; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Soares, A M
+AU  - Soares AM
+AD  - Oswaldo Cruz Foundation (FIOCRUZ), CEBio, Fiocruz Rondonia and Federal University
+      of Rondonia, Porto Velho, RO, Brazil; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Calderon, L A
+AU  - Calderon LA
+AD  - Oswaldo Cruz Foundation (FIOCRUZ), CEBio, Fiocruz Rondonia and Federal University
+      of Rondonia, Porto Velho, RO, Brazil; International Network of Ecuadorian Snakes 
+      Venom Studies (RIEVSE), Ecuador.
+FAU - Marangoni, S
+AU  - Marangoni S
+AD  - Department of Biochemistry and Tissue Biology, Institute of Biology, Campinas
+      State University (UNICAMP), Campinas, SP, Brazil.
+FAU - da Silva, S L
+AU  - da Silva SL
+AD  - IKIAM - Universidad Regional Amazonica, Km 7 Via Muyuna, Tena, Napo, Ecuador;
+      International Network of Ecuadorian Snakes Venom Studies (RIEVSE), Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20170104
+PL  - England
+TA  - Toxicon
+JT  - Toxicon : official journal of the International Society on Toxinology
+JID - 1307333
+RN  - 0 (Crotalid Venoms)
+RN  - 0 (Protein Isoforms)
+RN  - EC 3.1.1.4 (Phospholipases A2)
+SB  - IM
+EIN - Toxicon. 2017 Mar 15;128:61. PMID: 28185673
+MH  - *Agkistrodon
+MH  - Animals
+MH  - Chickens
+MH  - Crotalid Venoms/chemistry/*toxicity
+MH  - Mice
+MH  - Molecular Weight
+MH  - Neuromuscular Junction/drug effects/physiology
+MH  - Phospholipases A2/chemistry/*toxicity
+MH  - Phrenic Nerve/drug effects/physiology
+MH  - Protein Isoforms
+MH  - Rats, Wistar
+OTO - NOTNLM
+OT  - Acidic phospholipase A(2)
+OT  - Agkistrodon piscivorus leucostoma
+OT  - Pharmacological activity
+OT  - Snake venom
+EDAT- 2017/01/09 06:00
+MHDA- 2017/09/28 06:00
+CRDT- 2017/01/09 06:00
+PHST- 2016/09/04 00:00 [received]
+PHST- 2016/11/28 00:00 [revised]
+PHST- 2017/01/03 00:00 [accepted]
+PHST- 2017/01/09 06:00 [pubmed]
+PHST- 2017/09/28 06:00 [medline]
+PHST- 2017/01/09 06:00 [entrez]
+AID - S0041-0101(17)30003-X [pii]
+AID - 10.1016/j.toxicon.2017.01.002 [doi]
+PST - ppublish
+SO  - Toxicon. 2017 Mar 1;127:22-36. doi: 10.1016/j.toxicon.2017.01.002. Epub 2017 Jan 
+      4.
+
+PMID- 27341748
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20181202
+IS  - 1873-1457 (Electronic)
+IS  - 1571-0645 (Linking)
+VI  - 17
+DP  - 2016 Jul
+TI  - Small-scale universality and large-scale diversity: Comment on "Drivers of
+      structural features in gene regulatory networks: From biophysical constraints to 
+      biological function" by O.C. Martin, A. Krzywicki, and M. Zagorski.
+PG  - 163-5
+LID - 10.1016/j.plrev.2016.06.003 [doi]
+LID - S1571-0645(16)30035-5 [pii]
+FAU - Ispolatov, Yaroslav
+AU  - Ispolatov Y
+AD  - Departamento de Fisica, Universidad de Santiago de Chile, Av. Ecuador 3493,
+      Estacion Central, Santiago, Chile. Electronic address: jaros007@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Comment
+DEP - 20160618
+PL  - Netherlands
+TA  - Phys Life Rev
+JT  - Physics of life reviews
+JID - 101229718
+SB  - IM
+CON - Phys Life Rev. 2016 Jul;17:124-58. PMID: 27365153
+CIN - Phys Life Rev. 2016 Jul;17 :168-71. PMID: 27365152
+MH  - Biological Evolution
+MH  - Biophysics
+MH  - *Gene Regulatory Networks
+MH  - Humans
+MH  - *Models, Genetic
+OTO - NOTNLM
+OT  - Evolution
+OT  - Networks
+OT  - Universality
+EDAT- 2016/06/28 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/06/26 06:00
+PHST- 2016/06/14 00:00 [received]
+PHST- 2016/06/15 00:00 [accepted]
+PHST- 2016/06/26 06:00 [entrez]
+PHST- 2016/06/28 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+AID - S1571-0645(16)30035-5 [pii]
+AID - 10.1016/j.plrev.2016.06.003 [doi]
+PST - ppublish
+SO  - Phys Life Rev. 2016 Jul;17:163-5. doi: 10.1016/j.plrev.2016.06.003. Epub 2016 Jun
+      18.
+
+PMID- 27240357
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170316
+LR  - 20190111
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 17
+IP  - 6
+DP  - 2016 May 27
+TI  - Physico-Chemical and Structural Interpretation of Discrete Derivative Indices on 
+      N-Tuples Atoms.
+LID - 10.3390/ijms17060812 [doi]
+LID - E812 [pii]
+AB  - This report examines the interpretation of the Graph Derivative Indices (GDIs)
+      from three different perspectives (i.e., in structural, steric and electronic
+      terms). It is found that the individual vertex frequencies may be expressed in
+      terms of the geometrical and electronic reactivity of the atoms and bonds,
+      respectively. On the other hand, it is demonstrated that the GDIs are sensitive
+      to progressive structural modifications in terms of: size, ramifications,
+      electronic richness, conjugation effects and molecular symmetry. Moreover, it is 
+      observed that the GDIs quantify the interaction capacity among molecules and
+      codify information on the activation entropy. A structure property relationship
+      study reveals that there exists a direct correspondence between the individual
+      frequencies of atoms and Huckel's Free Valence, as well as between the atomic
+      GDIs and the chemical shift in NMR, which collectively validates the theory that 
+      these indices codify steric and electronic information of the atoms in a
+      molecule. Taking in consideration the regularity and coherence found in
+      experiments performed with the GDIs, it is possible to say that GDIs possess
+      plausible interpretation in structural and physicochemical terms.
+FAU - Martinez-Santiago, Oscar
+AU  - Martinez-Santiago O
+AD  - Computer-Aided Molecular "Biosilico" Discovery and Bioinformatic Research
+      International Network (CAMD-BIR IN), Cumbay&#225;-Tumbaco, Quito 170184, Ecuador.
+      oscarms@uclv.edu.cu.
+AD  - Department of Chemical Science, Faculty of Chemistry-Pharmacy, Universidad
+      Central "Martha Abreu" de Las Villas, Santa Clara 54830, Villa Clara, Cuba.
+      oscarms@uclv.edu.cu.
+FAU - Marrero-Ponce, Yovani
+AU  - Marrero-Ponce Y
+AD  - Computer-Aided Molecular "Biosilico" Discovery and Bioinformatic Research
+      International Network (CAMD-BIR IN), Cumbay&#225;-Tumbaco, Quito 170184, Ecuador.
+      ymarrero@usfq.edu.ec.
+AD  - Universidad San Francisco de Quito (USFQ), Grupo de Medicina Molecular y
+      Traslacional (MeM&amp;T), Colegio de Ciencias de la Salud (COCSA), Escuela de
+      Medicina, Edificio de Especialidades M&#233;dicas, Hospital de los Valles, Av.
+      Interoce&#225;nica Km 12 &#189;-Cumbay&#225;, Quito 170157, Ecuador.
+      ymarrero@usfq.edu.ec.
+AD  - Universidad San Francisco de Quito (USFQ), Instituto de Simulaci&#243;n
+      Computacional (ISC-USFQ), Diego de Robles y v&#237;a Interoce&#225;nica, Quito
+      170157, Ecuador. ymarrero@usfq.edu.ec.
+AD  - Grupo de Investigaci&#243;n Microbiolog&#237;a y Ambiente (GIMA), Programa de
+      Bacteriolog&#237;a, Facultad Ciencias de la Salud, Universidad de San
+      Buenaventura, Calle Real de Ternera, Cartagena de Indias, Bol&#237;var 130010,
+      Colombia. ymarrero@usfq.edu.ec.
+FAU - Barigye, Stephen J
+AU  - Barigye SJ
+AD  - Computer-Aided Molecular "Biosilico" Discovery and Bioinformatic Research
+      International Network (CAMD-BIR IN), Cumbay&#225;-Tumbaco, Quito 170184, Ecuador.
+      sjbarigye@yahoo.com.
+AD  - Departamento de Qu&#237;mica, Universidade Federal de Lavras (UFLA), Caixa Postal
+      3037, Lavras 37200-000, MG, Brazil. sjbarigye@yahoo.com.
+FAU - Le Thi Thu, Huong
+AU  - Le Thi Thu H
+AD  - School of Medicine and Pharmacy, Vietnam National University, Hanoi (VNU) 144
+      Xuan Thuy, Cau Giay, Hanoi 100000, Vietnam. ltthuong1017@gmail.com.
+FAU - Torres, F Javier
+AU  - Torres FJ
+AD  - Universidad San Francisco de Quito (USFQ), Instituto de Simulaci&#243;n
+      Computacional (ISC-USFQ), Diego de Robles y v&#237;a Interoce&#225;nica, Quito
+      170157, Ecuador. jtorres@usfq.edu.ec.
+AD  - Universidad San Francisco de Quito (USFQ), Grupo de Qu&#237;mica Computacional y 
+      Te&#243;rica (QCT-USFQ), Departamento de Ingenier&#237;a Qu&#237;mica, Diego de
+      Robles y V&#237;a Interoce&#225;nica, Quito 170157, Ecuador. jtorres@usfq.edu.ec.
+FAU - Zambrano, Cesar H
+AU  - Zambrano CH
+AD  - Universidad San Francisco de Quito (USFQ), Instituto de Simulaci&#243;n
+      Computacional (ISC-USFQ), Diego de Robles y v&#237;a Interoce&#225;nica, Quito
+      170157, Ecuador. czambrano@usfq.edu.ec.
+AD  - Universidad San Francisco de Quito (USFQ), Grupo de Qu&#237;mica Computacional y 
+      Te&#243;rica (QCT-USFQ), Departamento de Ingenier&#237;a Qu&#237;mica, Diego de
+      Robles y V&#237;a Interoce&#225;nica, Quito 170157, Ecuador.
+      czambrano@usfq.edu.ec.
+FAU - Muniz Olite, Jorge L
+AU  - Muniz Olite JL
+AD  - Grupo de Investigaci&#243;n en Estudios Qu&#237;micos y Biol&#243;gicos, Facultad
+      de Ciencias B&#225;sicas, Universidad Tecnol&#243;gica de Bol&#237;var (UTB),
+      Parque Industrial y Tecnol&#243;gico Carlos V&#233;lez Pombo Km 1 v&#237;a
+      Turbaco, Cartagena de Indias, Bol&#237;var 130010, Colombia.
+      jmuniz@unitecnologica.edu.co.
+FAU - Cruz-Monteagudo, Maykel
+AU  - Cruz-Monteagudo M
+AD  - Instituto de Investigaciones Biom&#233;dicas (IIB), Universidad de Las
+      Am&#233;ricas (UDLA), Quito 170513, Ecuador. maykel.cruz@udla.edu.ec.
+FAU - Vivas-Reyes, Ricardo
+AU  - Vivas-Reyes R
+AD  - Grupo de Qu&#237;mica Cu&#225;ntica y Te&#243;rica, Facultad de Ciencias,
+      Universidad de Cartagena, Cartagena de Indias, Bol&#237;var 130001, Colombia.
+      rvivasr@unicartagena.edu.co.
+AD  - Grupo CipTec, Fundaci&#243;n Universitaria Tecnol&#243;gico de Comfenalco,
+      Facultad de Ingenier&#237;as, Programa de Ingenier&#237;a de Procesos, Cartagena 
+      de Indias, Bol&#237;var 130001, Colombia. rvivasr@unicartagena.edu.co.
+FAU - Vazquez Infante, Liliana
+AU  - Vazquez Infante L
+AD  - Computer-Aided Molecular "Biosilico" Discovery and Bioinformatic Research
+      International Network (CAMD-BIR IN), Cumbay&#225;-Tumbaco, Quito 170184, Ecuador.
+      dirfabrica@eppc.cfg.minag.cu.
+AD  - Department of Chemical Science, Faculty of Chemistry-Pharmacy, Universidad
+      Central "Martha Abreu" de Las Villas, Santa Clara 54830, Villa Clara, Cuba.
+      dirfabrica@eppc.cfg.minag.cu.
+FAU - Artiles Martinez, Luis M
+AU  - Artiles Martinez LM
+AD  - Computer-Aided Molecular "Biosilico" Discovery and Bioinformatic Research
+      International Network (CAMD-BIR IN), Cumbay&#225;-Tumbaco, Quito 170184, Ecuador.
+      jmuniz@unitecnologica.edu.co.
+LA  - eng
+PT  - Journal Article
+DEP - 20160527
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Algorithms
+MH  - Computer Graphics
+MH  - Drug Design
+MH  - Entropy
+MH  - Pharmaceutical Preparations/*chemistry
+PMC - PMC4926346
+OTO - NOTNLM
+OT  - 17O-RMN
+OT  - GDIs
+OT  - activation entropy
+OT  - derivative indices
+OT  - discrete derivative
+OT  - free valence
+OT  - reactivity
+OT  - resonance energy
+OT  - structural interpretation
+EDAT- 2016/05/31 06:00
+MHDA- 2017/03/17 06:00
+CRDT- 2016/05/31 06:00
+PHST- 2016/01/31 00:00 [received]
+PHST- 2016/04/27 00:00 [revised]
+PHST- 2016/05/04 00:00 [accepted]
+PHST- 2016/05/31 06:00 [entrez]
+PHST- 2016/05/31 06:00 [pubmed]
+PHST- 2017/03/17 06:00 [medline]
+AID - ijms17060812 [pii]
+AID - 10.3390/ijms17060812 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2016 May 27;17(6). pii: ijms17060812. doi: 10.3390/ijms17060812.
+
+PMID- 27232061
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20180123
+LR  - 20180123
+IS  - 1520-5215 (Electronic)
+IS  - 1089-5639 (Linking)
+VI  - 120
+IP  - 24
+DP  - 2016 Jun 23
+TI  - Energetic, Structural, and Vibrational Properties of 4,4'-Methylenediphenyl
+      Diisocyanate with Relevance for Adhesion.
+PG  - 4256-66
+LID - 10.1021/acs.jpca.6b04431 [doi]
+AB  - Through a polymerization process, the monomer 4,4'-methylenediphenyl diisocyanate
+      can participate in glueing, whereby strong covalent bonds between the monomer and
+      the substrates that will be glued have to be formed. In the present work, we use 
+      density functional theory (DFT) calculations to study a group of properties that 
+      are important for the initial steps of this process and for its experimental
+      characterization. We focus on energetic and structural properties of a single
+      monomer of 4,4'-methylenediphenyl diisocyanate as obtained using different
+      theoretical approaches. We demonstrate that the molecule is chiral and that for
+      each chirality, three different structures, differing in the orientations of the 
+      isocyanate groups, can be identified. The molecule is soft against certain
+      geometry transformations and can, accordingly, easily take a structure that is
+      optimal for the formation of covalent bonds with a substrate. Infrared
+      spectroscopy may be used in identifying these covalent bonds, and therefore,
+      these spectra were calculated, and we identify the most relevant vibrations in
+      this context. Finally, changes in the properties when the monomer was modified or
+      when it was allowed to interact with other molecules were studied, too.
+FAU - Ramirez, Max
+AU  - Ramirez M
+AD  - Departamento de Fisica, Facultad de Ciencias, Universidad de Chile , Casilla 653,
+      Santiago, Chile 7800024.
+AD  - Physical and Theoretical Chemistry, University of Saarland , 66123 Saarbrucken,
+      Germany.
+AD  - Centro para el Desarrollo de la Nanociencia y la Nanotecnologia (CEDENNA) , Avda.
+      Ecuador 3493, Santiago, Chile 9170124.
+FAU - Vargas, Jorge
+AU  - Vargas J
+AD  - Physical and Theoretical Chemistry, University of Saarland , 66123 Saarbrucken,
+      Germany.
+AD  - Instituto de Investigaciones en Materiales, Universidad Nacional Autonoma de
+      Mexico , C.P. 04510, Mexico Ciudad, D.F., Mexico.
+FAU - Springborg, Michael
+AU  - Springborg M
+AD  - Physical and Theoretical Chemistry, University of Saarland , 66123 Saarbrucken,
+      Germany.
+AD  - School of Materials Science and Engineering, Tianjin University , Tianjin 300072,
+      China.
+LA  - eng
+PT  - Journal Article
+DEP - 20160609
+PL  - United States
+TA  - J Phys Chem A
+JT  - The journal of physical chemistry. A
+JID - 9890903
+EDAT- 2016/05/28 06:00
+MHDA- 2016/05/28 06:01
+CRDT- 2016/05/28 06:00
+PHST- 2016/05/28 06:00 [entrez]
+PHST- 2016/05/28 06:00 [pubmed]
+PHST- 2016/05/28 06:01 [medline]
+AID - 10.1021/acs.jpca.6b04431 [doi]
+PST - ppublish
+SO  - J Phys Chem A. 2016 Jun 23;120(24):4256-66. doi: 10.1021/acs.jpca.6b04431. Epub
+      2016 Jun 9.
+
+PMID- 26927324
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170130
+LR  - 20220330
+IS  - 1879-3150 (Electronic)
+IS  - 0041-0101 (Linking)
+VI  - 115
+DP  - 2016 Jun 1
+TI  - Isolation, structural and functional characterization of a new Lys49
+      phospholipase A2 homologue from Bothrops neuwiedi urutu with bactericidal
+      potential.
+PG  - 13-21
+LID - 10.1016/j.toxicon.2016.02.021 [doi]
+LID - S0041-0101(16)30038-1 [pii]
+AB  - Snake venom is a complex mixture of active compounds consisting of 80-90%
+      proteins and peptides that exhibit a variety of biological actions that are not
+      completely clarified or identified. Of these, phospholipase A2 is one of the
+      molecules that has shown great biotechnological potential. The objectives of this
+      study were to isolate, biochemically and biologically characterize a Lys49
+      phospholipase A2 homologue from the venom of Bothrops neuwiedi urutu. The protein
+      was purified after two chromatographic steps, anion exchange and reverse phase.
+      The purity and relative molecular mass were assessed by SDS-PAGE, observing a
+      molecular weight typical of PLA2s, subsequently confirmed by mass spectrometry
+      obtaining a mass of 13,733 Da. As for phospholipase activity, the PLA2 proved to 
+      be enzymatically inactive. The analyses by Edman degradation and sequencing of
+      the peptide fragments allowed for the identification of 108 amino acid residues; 
+      this sequence showed high identity with other phospholipases A2 from Bothrops
+      snake venoms, and identified this molecule as a novel PLA2 isoform from B.
+      neuwiedi urutu venom, called BnuTX-I. In murine models, both BnuTX-I as well as
+      the venom induced edema and myotoxic responses. The cytotoxic effect of BnuTX-I
+      in murine macrophages was observed at concentrations above 12 mug/mL. BnuTX-I
+      also presented antimicrobial activity against gram-positive and negative
+      bacterial strains, having the greatest inhibitory effect on Pseudomonas
+      aeruginosa. The results allowed for the identification of a new myotoxin isoform 
+      with PLA2 structure with promising biotechnological applications.
+CI  - Copyright (c) 2016 Elsevier Ltd. All rights reserved.
+FAU - Correa, Edailson A
+AU  - Correa EA
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil; Instituto Federal de Educacao,
+      Ciencia e Tecnologia de Rondonia, IFRO, Porto Velho-RO, Brazil; Programa de
+      Pos-Graduacao em Biodiversidade e Biotecnologia da Rede BIONORTE, Brazil.
+FAU - Kayano, Anderson M
+AU  - Kayano AM
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil.
+FAU - Diniz-Sousa, Rafaela
+AU  - Diniz-Sousa R
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil.
+FAU - Setubal, Sulamita S
+AU  - Setubal SS
+AD  - Laboratorio de Imunologia Celular Aplicada a Saude, Fundacao Oswaldo Cruz,
+      FIOCRUZ, Fiocruz Rondonia, Porto Velho-RO, Brazil.
+FAU - Zanchi, Fernando B
+AU  - Zanchi FB
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil; Programa de Pos-Graduacao em
+      Biodiversidade e Biotecnologia da Rede BIONORTE, Brazil.
+FAU - Zuliani, Juliana P
+AU  - Zuliani JP
+AD  - Programa de Pos-Graduacao em Biodiversidade e Biotecnologia da Rede BIONORTE,
+      Brazil; Laboratorio de Imunologia Celular Aplicada a Saude, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, Porto Velho-RO, Brazil.
+FAU - Matos, Najla B
+AU  - Matos NB
+AD  - Programa de Pos-Graduacao em Biodiversidade e Biotecnologia da Rede BIONORTE,
+      Brazil; Centro de Pesquisa em Medicina Tropical de Rondonia, CEPEM, and Fundacao 
+      Oswaldo Cruz, FIOCRUZ, Fiocruz Rondonia, Porto Velho-RO, Brazil.
+FAU - Almeida, Jose R
+AU  - Almeida JR
+AD  - Departamento de Bioquimica, Universidade Estadual de Campinas, UNICAMP,
+      Campinas-SP, Brazil.
+FAU - Resende, Leticia M
+AU  - Resende LM
+AD  - Departamento de Bioquimica, Universidade Estadual de Campinas, UNICAMP,
+      Campinas-SP, Brazil.
+FAU - Marangoni, Sergio
+AU  - Marangoni S
+AD  - Departamento de Bioquimica, Universidade Estadual de Campinas, UNICAMP,
+      Campinas-SP, Brazil.
+FAU - da Silva, Saulo L
+AU  - da Silva SL
+AD  - Universidade Regional Amazonica IKIAM, Via Muyuna Km 7, Tena, Napo, Ecuador.
+FAU - Soares, Andreimar M
+AU  - Soares AM
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil; Programa de Pos-Graduacao em
+      Biodiversidade e Biotecnologia da Rede BIONORTE, Brazil; Faculdade Sao Lucas,
+      FSL, Porto Velho-RO, Brazil. Electronic address: andreimar@fiocruz.br.
+FAU - Calderon, Leonardo A
+AU  - Calderon LA
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude, CEBio, Fundacao Oswaldo
+      Cruz, FIOCRUZ, Fiocruz Rondonia, and Departamento de Medicina, Universidade
+      Federal de Rondonia, UNIR, Porto Velho-RO, Brazil; Programa de Pos-Graduacao em
+      Biodiversidade e Biotecnologia da Rede BIONORTE, Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160227
+PL  - England
+TA  - Toxicon
+JT  - Toxicon : official journal of the International Society on Toxinology
+JID - 1307333
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Crotalid Venoms)
+RN  - 0 (Interleukin-1beta)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 63440-27-7 (myotoxin A)
+RN  - EC 3.1.1.4 (Phospholipases A2)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anti-Bacterial Agents/chemistry/*pharmacology
+MH  - Bothrops/*metabolism
+MH  - Cell Survival/drug effects
+MH  - Crotalid Venoms/*chemistry/isolation & purification/pharmacology
+MH  - Edema/blood/chemically induced/pathology
+MH  - Electrophoresis, Polyacrylamide Gel
+MH  - Gram-Negative Bacteria/drug effects
+MH  - Gram-Positive Bacteria/drug effects
+MH  - Interleukin-1beta/blood
+MH  - Male
+MH  - Mice
+MH  - Phospholipases A2/chemistry/*pharmacology
+MH  - Protein Conformation
+MH  - Pseudomonas aeruginosa/drug effects
+MH  - Sequence Alignment
+MH  - Tumor Necrosis Factor-alpha/blood
+OTO - NOTNLM
+OT  - Bactericidal activity
+OT  - Bothrops neuwiedi
+OT  - Phospholipase A(2)
+OT  - Snake venom
+EDAT- 2016/03/02 06:00
+MHDA- 2017/01/31 06:00
+CRDT- 2016/03/02 06:00
+PHST- 2015/12/19 00:00 [received]
+PHST- 2016/02/16 00:00 [revised]
+PHST- 2016/02/24 00:00 [accepted]
+PHST- 2016/03/02 06:00 [entrez]
+PHST- 2016/03/02 06:00 [pubmed]
+PHST- 2017/01/31 06:00 [medline]
+AID - S0041-0101(16)30038-1 [pii]
+AID - 10.1016/j.toxicon.2016.02.021 [doi]
+PST - ppublish
+SO  - Toxicon. 2016 Jun 1;115:13-21. doi: 10.1016/j.toxicon.2016.02.021. Epub 2016 Feb 
+      27.
+
+PMID- 26916525
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20160720
+LR  - 20160321
+IS  - 1521-3765 (Electronic)
+IS  - 0947-6539 (Linking)
+VI  - 22
+IP  - 14
+DP  - 2016 Mar 24
+TI  - Structural and Magnetic Diversity in Alkali-Metal Manganate Chemistry: Evaluating
+      Donor and Alkali-Metal Effects in Co-complexation Processes.
+PG  - 4843-54
+LID - 10.1002/chem.201504956 [doi]
+AB  - By exploring co-complexation reactions between the manganese alkyl Mn(CH2SiMe3)2 
+      and the heavier alkali-metal alkyls M(CH2SiMe3) (M=Na, K) in a benzene/hexane
+      solvent mixture and in some cases adding Lewis donors (bidentate TMEDA,
+      1,4-dioxane, and 1,4-diazabicyclo[2,2,2] octane (DABCO)) has produced a new
+      family of alkali-metal tris(alkyl) manganates. The influences that the alkali
+      metal and the donor solvent impose on the structures and magnetic properties of
+      these ates have been assessed by a combination of X-ray, SQUID magnetization
+      measurements, and EPR spectroscopy. These studies uncover a diverse structural
+      chemistry ranging from discrete monomers [(TMEDA)2 MMn(CH2SiMe3)3] (M=Na, 3; M=K,
+      4) to dimers [{KMn(CH2SiMe3)3 C6 H6}2] (2) and [{NaMn(CH2SiMe3)3}2 (dioxane)7]
+      (5); and to more complex supramolecular networks [{NaMn(CH2SiMe3)3}infinity] (1) 
+      and [{Na2Mn2 (CH2SiMe3)6 (DABCO)2}infinity] (7)). Interestingly, the identity of 
+      the alkali metal exerts a significant effect in the reactions of 1 and 2 with
+      1,4-dioxane, as 1 produces coordination adduct 5, while 2 forms heteroleptic
+      [{(dioxane)6K2Mn2 (CH2SiMe3)4(O(CH2)2OCH=CH2)2}infinity] (6) containing two
+      alkoxide-vinyl anions resulting from alpha-metalation and ring opening of
+      dioxane. Compounds 6 and 7, containing two spin carriers, exhibit
+      antiferromagnetic coupling of their S=5/2 moments with varying intensity
+      depending on the nature of the exchange pathways.
+CI  - (c) 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+FAU - Uzelac, Marina
+AU  - Uzelac M
+AD  - WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde,
+      295 Cathedral Street, Glasgow, G1 1XL, UK.
+FAU - Borilovic, Ivana
+AU  - Borilovic I
+AD  - Departament de Quimica Inorganica, Universitat de Barcelona, Diagonal 645, 08028,
+      Barcelona, Spain.
+FAU - Amores, Marco
+AU  - Amores M
+AD  - WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde,
+      295 Cathedral Street, Glasgow, G1 1XL, UK.
+FAU - Cadenbach, Thomas
+AU  - Cadenbach T
+AD  - WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde,
+      295 Cathedral Street, Glasgow, G1 1XL, UK.
+AD  - Escuela Politecnica Nacional, Departamento De Fisica, Ladron de Guevera E11-253, 
+      Quito, 170517, Ecuador.
+FAU - Kennedy, Alan R
+AU  - Kennedy AR
+AD  - WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde,
+      295 Cathedral Street, Glasgow, G1 1XL, UK.
+FAU - Aromi, Guillem
+AU  - Aromi G
+AD  - Departament de Quimica Inorganica, Universitat de Barcelona, Diagonal 645, 08028,
+      Barcelona, Spain. guillem.aromi@qi.ub.es.
+FAU - Hevia, Eva
+AU  - Hevia E
+AD  - WestCHEM, Department of Pure and Applied Chemistry, University of Strathclyde,
+      295 Cathedral Street, Glasgow, G1 1XL, UK. eva.hevia@strath.ac.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160224
+PL  - Germany
+TA  - Chemistry
+JT  - Chemistry (Weinheim an der Bergstrasse, Germany)
+JID - 9513783
+OTO - NOTNLM
+OT  - Lewis bases
+OT  - alkali metals
+OT  - cooperativity
+OT  - magnetism
+OT  - manganese
+EDAT- 2016/02/27 06:00
+MHDA- 2016/02/27 06:01
+CRDT- 2016/02/27 06:00
+PHST- 2015/12/09 00:00 [received]
+PHST- 2016/02/27 06:00 [entrez]
+PHST- 2016/02/27 06:00 [pubmed]
+PHST- 2016/02/27 06:01 [medline]
+AID - 10.1002/chem.201504956 [doi]
+PST - ppublish
+SO  - Chemistry. 2016 Mar 24;22(14):4843-54. doi: 10.1002/chem.201504956. Epub 2016 Feb
+      24.
+
+PMID- 26297682
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160421
+LR  - 20191210
+IS  - 1090-2449 (Electronic)
+IS  - 0014-4894 (Linking)
+VI  - 159
+DP  - 2015 Dec
+TI  - Presence of a thapsigargin-sensitive calcium pump in Trypanosoma evansi:
+      Immunological, physiological, molecular and structural evidences.
+PG  - 107-17
+LID - 10.1016/j.exppara.2015.08.017 [doi]
+LID - S0014-4894(15)30025-4 [pii]
+AB  - In higher eukaryotes, the sarco-endoplasmic reticulum (ER) Ca(2+)-ATPase (SERCA) 
+      is characterized for its high sensitivity to low concentrations of thapsigargin
+      (TG), a very specific inhibitor. In contrast, SERCA-like enzymes with different
+      sensitivities to TG have been reported in trypanosomatids. Here, we characterized
+      a SERCA-like enzyme from Trypanosoma evansi and evaluated its interaction with
+      TG. Confocal fluorescence microscopy using BODIPY FL TG and specific anti-SERCA
+      antibodies localized the T. evansi SERCA-like enzyme in the ER and confirmed its 
+      direct interaction with TG. Moreover, the use of either 1 muM TG or 25 muM
+      2',5'-di (tert-butyl)-1,4-benzohydroquinone prevented the reuptake of Ca(2+) and 
+      consequently produced a small increase in the parasite cytosolic calcium
+      concentration in a calcium-free medium, which was released from the ER pool. A
+      3035 bp-sequence coding for a protein with an estimated molecular mass of 110.2
+      kDa was cloned from T. evansi. The corresponding gene product contained all the
+      invariant residues and conserved motifs found in other P-type ATPases but lacked 
+      the calmodulin binding site. Modeling of the three-dimensional structure of the
+      parasite enzyme revealed that the amino acid changes found in the TG-SERCA
+      binding pocket do not compromise the interaction between the enzyme and the
+      inhibitor. Therefore, we concluded that T. evansi possesses a SERCA-like protein 
+      that is inhibited by TG.
+CI  - Copyright (c) 2015 Elsevier Inc. All rights reserved.
+FAU - Perez-Gordones, M C
+AU  - Perez-Gordones MC
+AD  - Instituto de Biologia Experimental (IBE), Universidad Central de Venezuela (UCV),
+      Caracas, Venezuela.
+FAU - Serrano, M L
+AU  - Serrano ML
+AD  - Unidad de Quimica Medicinal, Facultad de Farmacia, Universidad Central de
+      Venezuela (UCV), Caracas, 1041A, Venezuela.
+FAU - Rojas, H
+AU  - Rojas H
+AD  - Centro de Biofisica y Bioquimica (CBB), Instituto Venezolano de Investigaciones
+      Cientificas (IVIC), Caracas, Venezuela.
+FAU - Martinez, J C
+AU  - Martinez JC
+AD  - Centro de Biociencias y Medicina Molecular, Instituto de Estudios Avanzados
+      (IDEA), Caracas, Venezuela.
+FAU - Uzcanga, G
+AU  - Uzcanga G
+AD  - Centro de Biociencias y Medicina Molecular, Instituto de Estudios Avanzados
+      (IDEA), Caracas, Venezuela; Centro Internacional de Zoonosis (CIZ), Universidad
+      Central del Ecuador, Ecuador.
+FAU - Mendoza, M
+AU  - Mendoza M
+AD  - Centro de Estudios Biomedicos y Veterinarios, Instituto de Estudios Cientificos y
+      Tecnologicos (IDECYT), Universidad Nacional Experimental Simon Bolivar,
+      Venezuela. Electronic address: mendozamarta17@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150818
+PL  - United States
+TA  - Exp Parasitol
+JT  - Experimental parasitology
+JID - 0370713
+RN  - 0 (Enzyme Inhibitors)
+RN  - 0 (Ion Pumps)
+RN  - 67526-95-8 (Thapsigargin)
+RN  - EC 7.2.2.10 (Calcium-Transporting ATPases)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Blotting, Western
+MH  - Calcium-Transporting ATPases/antagonists & inhibitors/*drug
+      effects/genetics/immunology
+MH  - Endoplasmic Reticulum/enzymology
+MH  - Enzyme Inhibitors/*pharmacology
+MH  - Horse Diseases/parasitology
+MH  - Horses
+MH  - Ion Pumps/*drug effects/metabolism
+MH  - Male
+MH  - Microscopy, Confocal
+MH  - Models, Molecular
+MH  - Molecular Sequence Data
+MH  - Rats
+MH  - Rats, Sprague-Dawley
+MH  - Sequence Alignment
+MH  - Thapsigargin/*pharmacology
+MH  - Trypanosoma/drug effects/*metabolism/physiology
+MH  - Trypanosomiasis/parasitology/veterinary
+OTO - NOTNLM
+OT  - SERCA
+OT  - Thapsigargin
+OT  - Trypanosoma evansi
+EDAT- 2015/08/25 06:00
+MHDA- 2016/04/22 06:00
+CRDT- 2015/08/23 06:00
+PHST- 2015/03/09 00:00 [received]
+PHST- 2015/07/28 00:00 [revised]
+PHST- 2015/08/16 00:00 [accepted]
+PHST- 2015/08/23 06:00 [entrez]
+PHST- 2015/08/25 06:00 [pubmed]
+PHST- 2016/04/22 06:00 [medline]
+AID - S0014-4894(15)30025-4 [pii]
+AID - 10.1016/j.exppara.2015.08.017 [doi]
+PST - ppublish
+SO  - Exp Parasitol. 2015 Dec;159:107-17. doi: 10.1016/j.exppara.2015.08.017. Epub 2015
+      Aug 18.
+
+PMID- 24821506
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140810
+LR  - 20181202
+IS  - 1464-066X (Electronic)
+IS  - 0020-7594 (Linking)
+VI  - 49
+IP  - 3
+DP  - 2014 Jun
+TI  - Structural model of acculturation attitudes and related psychosocial variables:
+      empirical evidence in native Spaniards.
+PG  - 175-82
+LID - 10.1002/ijop.12017 [doi]
+AB  - This work falls within the framework of the study of acculturation processes of
+      natives and immigrants. Its goal is to test an explanatory multi-group model of
+      natives' acculturation attitudes as a function of diverse psychosocial variables:
+      Prejudice and natives' appraisal of their own culture (in a direct way) and
+      inter-group contact and perceived inter-group similarity (in an indirect way).
+      Participants were 499 Spaniards surveyed for their attitude towards Romanian
+      immigrants and 493 towards Ecuadorian immigrants. The indicators used took into
+      account three socio-cultural spheres: peripheral, intermediate and central areas.
+      This multi-group model shows an adequate fit to the data.
+CI  - (c) 2013 International Union of Psychological Science.
+FAU - Perez Moreno, Pedro J
+AU  - Perez Moreno PJ
+AD  - Department of Clinical, Experimental and Social Psychology, University of Huelva,
+      Huelva, Spain.
+FAU - Rojas Tejada, Antonio J
+AU  - Rojas Tejada AJ
+FAU - Navas Luque, Marisol
+AU  - Navas Luque M
+FAU - Lozano Rojas, Oscar M
+AU  - Lozano Rojas OM
+LA  - eng
+PT  - Journal Article
+DEP - 20131120
+PL  - England
+TA  - Int J Psychol
+JT  - International journal of psychology : Journal international de psychologie
+JID - 0107305
+SB  - IM
+MH  - *Acculturation
+MH  - Adult
+MH  - *Attitude
+MH  - *Cultural Characteristics
+MH  - Ecuador
+MH  - *Emigrants and Immigrants
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - *Models, Psychological
+MH  - *Prejudice
+MH  - Romania
+MH  - Spain
+MH  - Surveys and Questionnaires
+OTO - NOTNLM
+OT  - Acculturation
+OT  - Prejudice
+OT  - Structural equations
+EDAT- 2014/05/14 06:00
+MHDA- 2014/08/12 06:00
+CRDT- 2014/05/14 06:00
+PHST- 2012/06/28 00:00 [received]
+PHST- 2013/05/29 00:00 [accepted]
+PHST- 2014/05/14 06:00 [entrez]
+PHST- 2014/05/14 06:00 [pubmed]
+PHST- 2014/08/12 06:00 [medline]
+AID - 10.1002/ijop.12017 [doi]
+PST - ppublish
+SO  - Int J Psychol. 2014 Jun;49(3):175-82. doi: 10.1002/ijop.12017. Epub 2013 Nov 20.
+
+PMID- 19682726
+OWN - NLM
+STAT- Publisher
+LR  - 20191120
+IS  - 1879-1298 (Electronic)
+IS  - 0045-6535 (Linking)
+DP  - 2009 Aug 13
+TI  - WITHDRAWN: Reply to Comment by Sierra Rayne and Kaya Forest on "Ab initio study
+      of the structural, electronic, and thermodynamic properties of linear
+      perfluorooctane sulfonate (PFOS) and its branched isomers"
+AB  - This article has been withdrawn at the request of the author(s) and/or editor.
+      The Publisher apologizes for any inconvenience this may cause. The full Elsevier 
+      Policy on Article Withdrawal can be found at
+      http://www.elsevier.com/locate/withdrawalpolicy.
+FAU - Torres, F J
+AU  - Torres FJ
+AD  - Department of Chemical and Environmental Engineering, University of Arizona,
+      Tucson, AZ 85721, USA; Colegio de Ciencias e Ingenieria - El Politecnico,
+      Universidad San Francisco de Quito, Diego de Robles y Via Interoceanica, Quito,
+      Ecuador.
+FAU - Ochoa-Herrera, V
+AU  - Ochoa-Herrera V
+FAU - Blowers, P
+AU  - Blowers P
+FAU - Sierra-Alvarez, R
+AU  - Sierra-Alvarez R
+LA  - eng
+PT  - Journal Article
+DEP - 20090813
+PL  - England
+TA  - Chemosphere
+JT  - Chemosphere
+JID - 0320657
+EDAT- 2009/08/18 09:00
+MHDA- 2009/08/18 09:00
+CRDT- 2009/08/18 09:00
+PHST- 2009/06/16 00:00 [received]
+PHST- 2009/06/19 00:00 [revised]
+PHST- 2009/06/22 00:00 [accepted]
+PHST- 2009/08/18 09:00 [entrez]
+PHST- 2009/08/18 09:00 [pubmed]
+PHST- 2009/08/18 09:00 [medline]
+AID - S0045-6535(09)00787-5 [pii]
+AID - 10.1016/j.chemosphere.2009.06.056 [doi]
+PST - aheadofprint
+SO  - Chemosphere. 2009 Aug 13. pii: S0045-6535(09)00787-5. doi:
+      10.1016/j.chemosphere.2009.06.056.
+
+PMID- 17653774
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20071127
+LR  - 20181113
+IS  - 0940-6360 (Print)
+IS  - 0940-6360 (Linking)
+VI  - 17
+IP  - 7
+DP  - 2007 Oct
+TI  - Structural characterization and molecular identification of arbuscular mycorrhiza
+      morphotypes of Alzatea verticillata (Alzateaceae), a prominent tree in the
+      tropical mountain rain forest of South Ecuador.
+PG  - 607-625
+LID - 10.1007/s00572-007-0139-0 [doi]
+AB  - The vast majority of the highly diverse trees in the tropical mountain rain
+      forest of South Ecuador form arbuscular mycorrhizas, and previous molecular
+      investigations revealed a high diversity of fungi. In this study, we present a
+      first trial to link fungal DNA-sequences with defined morphotypes characterized
+      on the basis of partly new mycelial features obtained from field material of one 
+      tree species, Alzatea verticillata. Fine roots were halved lengthwise to study
+      the mycelium anatomy on one half and to obtain fungal nuclear rDNA coding for the
+      small subunit rRNA of Glomeromycota from the other half. Light microscopy
+      revealed conspicuously large amounts of mycelium attaching to the surface of the 
+      rootlets. The mycelium formed fine- or large-branched appressoria-like plates,
+      vesicles of regular or irregular shape, and very fine, multibranched structures
+      ensheathed by septate hyphae. These previously undescribed features of the
+      supraradical mycelia combined with intraradical mycelium structures were used for
+      distinguishing of four main morphogroups and subordinate 14 morphotypes. DNA
+      sequences of Glomus group A, Acaulospora and Gigaspora, were obtained and linked 
+      to three morphogroups. Two sequence types within Glomus group A could be
+      tentatively associated to subordinate morphotypes.
+FAU - Beck, Adela
+AU  - Beck A
+AD  - Systematic Botany, Mycology and Botanical Garden, Eberhard-Karls-University
+      Tubingen, Auf der Morgenstelle 1, 72076, Tubingen, Germany.
+      adela.beck@uni-tuebingen.de.
+FAU - Haug, Ingeborg
+AU  - Haug I
+AD  - Systematic Botany, Mycology and Botanical Garden, Eberhard-Karls-University
+      Tubingen, Auf der Morgenstelle 1, 72076, Tubingen, Germany.
+FAU - Oberwinkler, Franz
+AU  - Oberwinkler F
+AD  - Systematic Botany, Mycology and Botanical Garden, Eberhard-Karls-University
+      Tubingen, Auf der Morgenstelle 1, 72076, Tubingen, Germany.
+FAU - Kottke, Ingrid
+AU  - Kottke I
+AD  - Systematic Botany, Mycology and Botanical Garden, Eberhard-Karls-University
+      Tubingen, Auf der Morgenstelle 1, 72076, Tubingen, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070726
+PL  - Germany
+TA  - Mycorrhiza
+JT  - Mycorrhiza
+JID - 100955036
+SB  - IM
+MH  - Mycelium/cytology
+MH  - Mycorrhizae/classification/*cytology/*genetics
+MH  - Phylogeny
+MH  - Trees/*microbiology
+EDAT- 2007/07/27 09:00
+MHDA- 2007/12/06 09:00
+CRDT- 2007/07/27 09:00
+PHST- 2006/12/07 00:00 [received]
+PHST- 2007/05/21 00:00 [accepted]
+PHST- 2007/07/27 09:00 [pubmed]
+PHST- 2007/12/06 09:00 [medline]
+PHST- 2007/07/27 09:00 [entrez]
+AID - 10.1007/s00572-007-0139-0 [doi]
+AID - 10.1007/s00572-007-0139-0 [pii]
+PST - ppublish
+SO  - Mycorrhiza. 2007 Oct;17(7):607-625. doi: 10.1007/s00572-007-0139-0. Epub 2007 Jul
+      26.
+
+PMID- 17403557
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070719
+LR  - 20071115
+IS  - 0264-410X (Print)
+IS  - 0264-410X (Linking)
+VI  - 25
+IP  - 22
+DP  - 2007 May 30
+TI  - Synthetic vaccine update: applying lessons learned from recent SPf66 malarial
+      vaccine physicochemical, structural and immunological characterization.
+PG  - 4487-501
+AB  - The SPf66 synthetic malaria vaccine, developed and obtained almost 2 decades ago,
+      represents the first approach towards developing a multi-antigenic, multi-stage
+      synthetic malarial vaccine composed of subunits derived from different Plasmodium
+      falciparum stage proteins. It is shown here that batches 03, 04, 05, 06, 07, 08, 
+      09, 10, 11, 12, 13, 14, 15 and 16 produced from a few milligrams to kilogram
+      amounts and used in assays on monkeys and humans showed high reproducibility in
+      physicochemical analysis. (1)H NMR two-dimensional studies also revealed high
+      similarity, even in non-oxidized batches. Reproducibility was also high,
+      especially in preclinical studies carried out on Aotus, clinical trials Phase I, 
+      IIa and IIb and field-studies carried out in La Tola, Rio Rosario (Colombia),
+      Majadas (Venezuela), La Te (Ecuador), Ifakara (Tanzania) in which there was high 
+      antibody titer production, having similar population distribution when done with 
+      different batches. These results provide great support for peptide-synthesized
+      vaccines containing minimal epitopes from protection-inducing antigens which have
+      several advantages, such as low cost, safety, reproducibility, stability, being
+      straightforwardly scaled-up from milligram to kilogram amounts; make them the
+      vaccines of choice for the future in a worldwide attempt to scourge diseases such
+      as malaria.
+FAU - Bermudez, Adriana
+AU  - Bermudez A
+AD  - Nuclear Magnetic Resonance Department, Fundacion Instituto de Inmunologia de
+      Colombia, Bogota, Colombia.
+FAU - Reyes, Claudia
+AU  - Reyes C
+FAU - Guzman, Fanny
+AU  - Guzman F
+FAU - Vanegas, Magnolia
+AU  - Vanegas M
+FAU - Rosas, Jaiver
+AU  - Rosas J
+FAU - Amador, Roberto
+AU  - Amador R
+FAU - Rodriguez, Raul
+AU  - Rodriguez R
+FAU - Patarroyo, Manuel Alfonso
+AU  - Patarroyo MA
+FAU - Patarroyo, Manuel Elkin
+AU  - Patarroyo ME
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20070326
+PL  - Netherlands
+TA  - Vaccine
+JT  - Vaccine
+JID - 8406899
+RN  - 0 (Antibodies, Protozoan)
+RN  - 0 (Antigens, Protozoan)
+RN  - 0 (Malaria Vaccines)
+RN  - 0 (Protozoan Proteins)
+RN  - 0 (Recombinant Proteins)
+RN  - 0 (SPf66 protein, Plasmodium)
+RN  - 0 (Vaccines, Synthetic)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Antibodies, Protozoan/blood
+MH  - Antigens, Protozoan/*immunology
+MH  - Aotidae
+MH  - Child
+MH  - Child, Preschool
+MH  - Chromatography, High Pressure Liquid
+MH  - Clinical Trials as Topic
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Magnetic Resonance Spectroscopy
+MH  - *Malaria Vaccines/administration & dosage/adverse effects/chemistry/immunology
+MH  - Malaria, Falciparum/immunology/parasitology/*prevention & control
+MH  - Male
+MH  - Molecular Sequence Data
+MH  - Plasmodium falciparum/growth & development/*immunology
+MH  - *Protozoan Proteins/administration & dosage/adverse effects/chemistry/immunology
+MH  - *Recombinant Proteins/administration & dosage/adverse
+      effects/chemistry/immunology
+MH  - Reproducibility of Results
+MH  - Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization
+MH  - *Vaccines, Synthetic/administration & dosage/adverse effects/chemistry/immunology
+EDAT- 2007/04/04 09:00
+MHDA- 2007/07/20 09:00
+CRDT- 2007/04/04 09:00
+PHST- 2006/10/31 00:00 [received]
+PHST- 2007/03/07 00:00 [accepted]
+PHST- 2007/04/04 09:00 [pubmed]
+PHST- 2007/07/20 09:00 [medline]
+PHST- 2007/04/04 09:00 [entrez]
+AID - S0264-410X(07)00310-6 [pii]
+AID - 10.1016/j.vaccine.2007.03.016 [doi]
+PST - ppublish
+SO  - Vaccine. 2007 May 30;25(22):4487-501. doi: 10.1016/j.vaccine.2007.03.016. Epub
+      2007 Mar 26.

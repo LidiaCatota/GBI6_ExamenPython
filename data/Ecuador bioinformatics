@@ -1,0 +1,234 @@
+
+PMID- 28789679
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180518
+LR  - 20181113
+IS  - 1755-8794 (Electronic)
+IS  - 1755-8794 (Linking)
+VI  - 10
+IP  - 1
+DP  - 2017 Aug 8
+TI  - Consensus strategy in genes prioritization and combined bioinformatics analysis
+      for preeclampsia pathogenesis.
+PG  - 50
+LID - 10.1186/s12920-017-0286-x [doi]
+AB  - BACKGROUND: Preeclampsia is a multifactorial disease with unknown pathogenesis.
+      Even when recent studies explored this disease using several bioinformatics
+      tools, the main objective was not directed to pathogenesis. Additionally,
+      consensus prioritization was proved to be highly efficient in the recognition of 
+      genes-disease association. However, not information is available about the
+      consensus ability to early recognize genes directly involved in pathogenesis.
+      Therefore our aim in this study is to apply several theoretical approaches to
+      explore preeclampsia; specifically those genes directly involved in the
+      pathogenesis. METHODS: We firstly evaluated the consensus between 12
+      prioritization strategies to early recognize pathogenic genes related to
+      preeclampsia. A communality analysis in the protein-protein interaction network
+      of previously selected genes was done including further enrichment analysis. The 
+      enrichment analysis includes metabolic pathways as well as gene ontology.
+      Microarray data was also collected and used in order to confirm our results or as
+      a strategy to weight the previously enriched pathways. RESULTS: The consensus
+      prioritized gene list was rationally filtered to 476 genes using several
+      criteria. The communality analysis showed an enrichment of communities connected 
+      with VEGF-signaling pathway. This pathway is also enriched considering the
+      microarray data. Our result point to VEGF, FLT1 and KDR as relevant pathogenic
+      genes, as well as those connected with NO metabolism. CONCLUSION: Our results
+      revealed that consensus strategy improve the detection and initial enrichment of 
+      pathogenic genes, at least in preeclampsia condition. Moreover the combination of
+      the first percent of the prioritized genes with protein-protein interaction
+      network followed by communality analysis reduces the gene space. This approach
+      actually identifies well known genes related with pathogenesis. However, genes
+      like HSP90, PAK2, CD247 and others included in the first 1% of the prioritized
+      list need to be further explored in preeclampsia pathogenesis through
+      experimental approaches.
+FAU - Tejera, Eduardo
+AU  - Tejera E
+AUID- ORCID: 0000-0002-1377-0413
+AD  - Facultad de Medicina, Universidad de Las Americas, Av. de los Granados E12-41y
+      Colimes esq, EC170125, Quito, Ecuador. edutp00@gmail.com.
+FAU - Cruz-Monteagudo, Maykel
+AU  - Cruz-Monteagudo M
+AD  - Department of Molecular and Cellular Pharmacology, Miller School of Medicine and 
+      Center for Computational Science, University of Miami, FL 33136, Miami, USA.
+AD  - Department of General Education, West Coast University-Miami Campus, Doral, FL
+      33178, USA.
+AD  - CIQUP/Departamento de Quimica e Bioquimica, Faculdade de Ciencias, Universidade
+      do Porto, 4169-007, Porto, Portugal.
+AD  - REQUIMTE, Department of Chemistry and Biochemistry, Faculty of Sciences,
+      University of Porto, 4169-007, Porto, Portugal.
+FAU - Burgos, German
+AU  - Burgos G
+AD  - Facultad de Medicina, Universidad de Las Americas, Av. de los Granados E12-41y
+      Colimes esq, EC170125, Quito, Ecuador.
+FAU - Sanchez, Maria-Eugenia
+AU  - Sanchez ME
+AD  - Facultad de Medicina, Universidad de Las Americas, Av. de los Granados E12-41y
+      Colimes esq, EC170125, Quito, Ecuador.
+FAU - Sanchez-Rodriguez, Aminael
+AU  - Sanchez-Rodriguez A
+AD  - Departamento de Ciencias Naturales, Universidad Tecnica Particular de Loja, Calle
+      Paris S/N, EC1101608, Loja, Ecuador.
+FAU - Perez-Castillo, Yunierkis
+AU  - Perez-Castillo Y
+AD  - Escuela de Ciencias Fisicas y Matematicas, Universidad de Las Americas, Quito,
+      Ecuador.
+FAU - Borges, Fernanda
+AU  - Borges F
+AD  - CIQUP/Departamento de Quimica e Bioquimica, Faculdade de Ciencias, Universidade
+      do Porto, 4169-007, Porto, Portugal.
+FAU - Cordeiro, Maria Natalia Dias Soeiro
+AU  - Cordeiro MNDS
+AD  - REQUIMTE, Department of Chemistry and Biochemistry, Faculty of Sciences,
+      University of Porto, 4169-007, Porto, Portugal.
+FAU - Paz-Y-Mino, Cesar
+AU  - Paz-Y-Mino C
+AD  - Centro de Investigaciones genetica y genomica, Facultad de Ciencias de la Salud, 
+      Universidad Tecnologica Equinoccial, Quito, Ecuador.
+FAU - Rebelo, Irene
+AU  - Rebelo I
+AD  - Faculty of Pharmacy, University of Porto, Porto, Portugal.
+AD  - UCIBIO@REQUIMTE, Caparica, Portugal.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20170808
+PL  - England
+TA  - BMC Med Genomics
+JT  - BMC medical genomics
+JID - 101319628
+SB  - IM
+MH  - *Computational Biology
+MH  - *Consensus
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Humans
+MH  - Metabolic Networks and Pathways/genetics
+MH  - Pre-Eclampsia/*etiology/*genetics/metabolism
+MH  - Pregnancy
+MH  - Protein Interaction Maps
+PMC - PMC5549357
+OTO - NOTNLM
+OT  - *Communality analysis
+OT  - *Consensus analysis
+OT  - *Early recognition
+OT  - *Gene periodization
+OT  - *Microarray analysis
+OT  - *Pathogenesis
+OT  - *Preeclampsia
+EDAT- 2017/08/10 06:00
+MHDA- 2018/05/19 06:00
+CRDT- 2017/08/10 06:00
+PHST- 2017/02/08 00:00 [received]
+PHST- 2017/07/28 00:00 [accepted]
+PHST- 2017/08/10 06:00 [entrez]
+PHST- 2017/08/10 06:00 [pubmed]
+PHST- 2018/05/19 06:00 [medline]
+AID - 10.1186/s12920-017-0286-x [doi]
+AID - 10.1186/s12920-017-0286-x [pii]
+PST - epublish
+SO  - BMC Med Genomics. 2017 Aug 8;10(1):50. doi: 10.1186/s12920-017-0286-x.
+
+PMID- 27581798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170817
+LR  - 20181202
+IS  - 1471-2105 (Electronic)
+IS  - 1471-2105 (Linking)
+VI  - 17
+IP  - 1
+DP  - 2016 Aug 31
+TI  - Fine-grained parallelization of fitness functions in bioinformatics optimization 
+      problems: gene selection for cancer classification and biclustering of gene
+      expression data.
+PG  - 330
+LID - 10.1186/s12859-016-1200-9 [doi]
+AB  - BACKGROUND: Metaheuristics are widely used to solve large combinatorial
+      optimization problems in bioinformatics because of the huge set of possible
+      solutions. Two representative problems are gene selection for cancer
+      classification and biclustering of gene expression data. In most cases, these
+      metaheuristics, as well as other non-linear techniques, apply a fitness function 
+      to each possible solution with a size-limited population, and that step involves 
+      higher latencies than other parts of the algorithms, which is the reason why the 
+      execution time of the applications will mainly depend on the execution time of
+      the fitness function. In addition, it is usual to find floating-point arithmetic 
+      formulations for the fitness functions. This way, a careful parallelization of
+      these functions using the reconfigurable hardware technology will accelerate the 
+      computation, specially if they are applied in parallel to several solutions of
+      the population. RESULTS: A fine-grained parallelization of two floating-point
+      fitness functions of different complexities and features involved in biclustering
+      of gene expression data and gene selection for cancer classification allowed for 
+      obtaining higher speedups and power-reduced computation with regard to usual
+      microprocessors. CONCLUSIONS: The results show better performances using
+      reconfigurable hardware technology instead of usual microprocessors, in computing
+      time and power consumption terms, not only because of the parallelization of the 
+      arithmetic operations, but also thanks to the concurrent fitness evaluation for
+      several individuals of the population in the metaheuristic. This is a good basis 
+      for building accelerated and low-energy solutions for intensive computing
+      scenarios.
+FAU - Gomez-Pulido, Juan A
+AU  - Gomez-Pulido JA
+AUID- ORCID: http://orcid.org/0000-0002-0441-9402
+AD  - Department of Technologies of Computers and Communications, University of
+      Extremadura, Polytechnic School, Campus Universitario s/n, Caceres, 10003, Spain.
+      jangomez@unex.es.
+FAU - Cerrada-Barrios, Jose L
+AU  - Cerrada-Barrios JL
+AD  - Department of Technologies of Computers and Communications, University of
+      Extremadura, Polytechnic School, Campus Universitario s/n, Caceres, 10003, Spain.
+FAU - Trinidad-Amado, Sebastian
+AU  - Trinidad-Amado S
+AD  - Department of Technologies of Computers and Communications, University of
+      Extremadura, Polytechnic School, Campus Universitario s/n, Caceres, 10003, Spain.
+FAU - Lanza-Gutierrez, Jose M
+AU  - Lanza-Gutierrez JM
+AD  - Department of Technologies of Computers and Communications, University of
+      Extremadura, Polytechnic School, Campus Universitario s/n, Caceres, 10003, Spain.
+FAU - Fernandez-Diaz, Ramon A
+AU  - Fernandez-Diaz RA
+AD  - Department of Computer and Aerospace Engineering, University of Leon, Computer
+      Sciences School, Campus de Vegazana s/n, Leon, 24071, Spain.
+FAU - Crawford, Broderick
+AU  - Crawford B
+AD  - Pontificia Universidad Catolica de Valparaiso, Valparaiso, 2362807, Chile.
+AD  - Universidad Central de Chile, Santiago, 8370178, Chile.
+FAU - Soto, Ricardo
+AU  - Soto R
+AD  - Pontificia Universidad Catolica de Valparaiso, Valparaiso, 2362807, Chile.
+AD  - Universidad Autonoma de Chile, Santiago, 7500138, Chile.
+AD  - Universidad Espiritu Santo, Guayaquil, Ecuador.
+LA  - eng
+PT  - Journal Article
+DEP - 20160831
+PL  - England
+TA  - BMC Bioinformatics
+JT  - BMC bioinformatics
+JID - 100965194
+SB  - IM
+MH  - Algorithms
+MH  - Computational Biology/*methods
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Humans
+MH  - Neoplasms/classification/*genetics/pathology
+MH  - Software
+PMC - PMC5007680
+OTO - NOTNLM
+OT  - Biclustering
+OT  - Cancer classification
+OT  - FPGA
+OT  - Fitness function
+OT  - Floating-point arithmetic
+OT  - Metaheuristics
+OT  - Parallelism
+EDAT- 2016/09/02 06:00
+MHDA- 2017/08/18 06:00
+CRDT- 2016/09/02 06:00
+PHST- 2016/04/03 00:00 [received]
+PHST- 2016/08/24 00:00 [accepted]
+PHST- 2016/09/02 06:00 [entrez]
+PHST- 2016/09/02 06:00 [pubmed]
+PHST- 2017/08/18 06:00 [medline]
+AID - 10.1186/s12859-016-1200-9 [doi]
+AID - 10.1186/s12859-016-1200-9 [pii]
+PST - epublish
+SO  - BMC Bioinformatics. 2016 Aug 31;17(1):330. doi: 10.1186/s12859-016-1200-9.
