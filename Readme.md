@@ -1,5 +1,5 @@
 ## Datos Personales 
-### Nombre: Adriana Pujota 
+### Nombre: Lidia Catota 
 ### correo institucional: lidia.catota@est.ikiam.edu.ec 
 ### Carrera: Ingenieria en Biotecnologia 
 ### Materia: Bioinformatica 
